@@ -1,0 +1,62 @@
+name: Bug report
+description: Report a defect in the storefront so it can be reproduced and fixed.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for filing a bug. Please search existing issues first to avoid duplicates.
+        Backend defects (services, gateway) belong in the
+        [FreshCart](https://github.com/amasen02/FreshCart) repository.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug and what you expected instead.
+      placeholder: When I ..., I expected ..., but instead ...
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Minimal, ordered steps.
+      placeholder: |
+        1. Sign in as demo@freshcart.test
+        2. Add an item to the basket
+        3. ...
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Auth / sign-in
+        - Catalog / product browsing
+        - Basket
+        - Checkout / orders
+        - Account
+        - Dashboard (back-office)
+        - Support chat
+        - Realtime notifications
+        - Layout / navigation
+        - Build / tooling
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser + version, OS, and whether the backend gateway was running.
+    validations:
+      required: false
+  - type: textarea
+    id: console
+    attributes:
+      label: Console / network errors
+      description: Paste any browser console output or failed network responses.
+      render: shell
+    validations:
+      required: false

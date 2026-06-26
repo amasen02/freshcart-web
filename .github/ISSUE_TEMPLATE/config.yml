@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/amasen02/freshcart-web/security/advisories/new
+    about: Please report security issues privately via a GitHub security advisory, not a public issue (see SECURITY.md).
+  - name: Backend / platform issue
+    url: https://github.com/amasen02/FreshCart/issues
+    about: For services, the gateway, or infrastructure, open an issue in the FreshCart backend repository.
+  - name: Question or discussion
+    url: https://github.com/amasen02/freshcart-web/discussions
+    about: Ask questions, share ideas, or discuss the storefront architecture.

@@ -1,0 +1,20 @@
+# Normalise line endings: LF in the repo, native in the working tree.
+* text=auto eol=lf
+
+# Keep shell scripts and the like as LF even on Windows checkouts.
+*.sh text eol=lf
+
+# Treat known binary assets as binary (no EOL conversion, no diff).
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+
+# Generated lockfiles: track them, but don't show noisy diffs.
+package-lock.json -diff linguist-generated

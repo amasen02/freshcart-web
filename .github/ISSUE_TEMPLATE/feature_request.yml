@@ -1,0 +1,48 @@
+name: Feature request / enhancement
+description: Propose a new capability or an improvement to the storefront.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        FreshCart Web is the storefront for a portfolio reference platform. Proposals that
+        sharpen a pattern, improve accessibility, or add a missing capability are welcome.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / motivation
+      description: What gap or pain does this address? What is the use case?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What you would build or change, and roughly how it fits the existing architecture.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you weighed and why this one wins.
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Auth / sign-in
+        - Catalog / product browsing
+        - Basket
+        - Checkout / orders
+        - Account
+        - Dashboard (back-office)
+        - Support chat
+        - Realtime notifications
+        - Layout / accessibility
+        - Build / tooling / CI
+        - Docs
+    validations:
+      required: true

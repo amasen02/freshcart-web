@@ -1,5 +1,12 @@
 # FreshCart Web — customer storefront
 
+[![CI](https://github.com/amasen02/freshcart-web/actions/workflows/ci.yml/badge.svg)](https://github.com/amasen02/freshcart-web/actions/workflows/ci.yml)
+[![Angular](https://img.shields.io/badge/Angular-20-red)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-blue)](CODE_OF_CONDUCT.md)
+
 The Angular 20 storefront for **[FreshCart](https://github.com/amasen02/FreshCart)**, a
 production-grade microservices reference platform. This repository holds the frontend only; the
 backend (12 .NET services, the YARP gateway, infrastructure and deployment) lives in the
@@ -118,6 +125,42 @@ contract exactly.
 
 ---
 
+## Contributing
+
+Contributions are welcome — bug fixes, accessibility improvements, sharper patterns, better docs.
+Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for the workflow and coding bar, and please be mindful of
+the [Code of Conduct](CODE_OF_CONDUCT.md). Use the issue templates; green CI (`lint` + `test` +
+`build`) is required on every pull request. Report security issues privately per
+[`SECURITY.md`](SECURITY.md) — never as a public issue.
+
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — branch/commit/PR workflow and coding standards.
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) — Contributor Covenant 2.1.
+- [`SECURITY.md`](SECURITY.md) — coordinated vulnerability disclosure.
+
+## Open source commitments
+
+This project is, and will remain, free and open source. As maintainer I commit to:
+
+- **A permissive licence, kept stable.** [MIT](LICENSE) — use it commercially, fork it, build on
+  it. No relicensing of accepted contributions.
+- **No CLA.** Contributions are accepted under the MIT licence; you keep the copyright to your work.
+- **An honest history.** Real, walkable commits — no fabricated activity, no rewritten releases.
+- **Best-effort, transparent triage.** Issues and pull requests are read and answered; security
+  reports are acknowledged within 72 hours.
+- **A welcoming community** governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+- **Reproducible builds.** Green CI — lint, unit tests, production build, and a scanned container
+  image — on every change.
+
+---
+
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Fork it, build on it, take it in your own direction.
+MIT — see [`LICENSE`](LICENSE). You are free to use, modify, and distribute this software,
+including for commercial purposes, provided the copyright notice is retained.
+
+## Author
+
+**Ama Senevirathne** — Senior Software Engineer & Tech Lead.
+
+- [GitHub](https://github.com/amasen02)
+- Backend / platform: [amasen02/FreshCart](https://github.com/amasen02/FreshCart)
