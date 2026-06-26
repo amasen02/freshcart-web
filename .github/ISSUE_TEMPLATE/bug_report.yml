@@ -7,7 +7,7 @@ body:
       value: |
         Thanks for filing a bug. Please search existing issues first to avoid duplicates.
         Backend defects (services, gateway) belong in the
-        [FreshCart](https://github.com/amasen02/FreshCart) repository.
+        [FreshCart](https://github.com/amasen02/freshcart-backend) repository.
   - type: textarea
     id: what-happened
     attributes:

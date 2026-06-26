@@ -1,12 +1,12 @@
 # Contributing to FreshCart Web
 
-This is the Angular 20 storefront for the [FreshCart](https://github.com/amasen02/FreshCart)
+This is the Angular 20 storefront for the [FreshCart](https://github.com/amasen02/freshcart-backend)
 platform. Pull requests are welcome where they fix a bug, sharpen a pattern, improve
 accessibility, or improve documentation — provided they keep the senior-engineer tone of the
 codebase.
 
 > Backend issues (services, gateway, infrastructure) belong in the
-> [FreshCart](https://github.com/amasen02/FreshCart) repository, not here.
+> [FreshCart](https://github.com/amasen02/freshcart-backend) repository, not here.
 
 ## Ground rules
 
@@ -38,7 +38,7 @@ codebase.
 ## Local development
 
 The storefront needs the backend gateway running. Start the
-[FreshCart](https://github.com/amasen02/FreshCart) platform first (Aspire AppHost or Docker
+[FreshCart](https://github.com/amasen02/freshcart-backend) platform first (Aspire AppHost or Docker
 Compose), which exposes the gateway on `https://localhost:7100` and seeds the demo accounts.
 
 ```bash

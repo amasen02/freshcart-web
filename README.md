@@ -7,12 +7,12 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-blue)](CODE_OF_CONDUCT.md)
 
-The Angular 20 storefront for **[FreshCart](https://github.com/amasen02/FreshCart)**, a
+The Angular 20 storefront for **[FreshCart](https://github.com/amasen02/freshcart-backend)**, a
 production-grade microservices reference platform. This repository holds the frontend only; the
 backend (12 .NET services, the YARP gateway, infrastructure and deployment) lives in the
 companion repo:
 
-> **Backend / platform:** https://github.com/amasen02/FreshCart
+> **Backend / platform:** https://github.com/amasen02/freshcart-backend
 
 It is a zoneless, signal-based single-page application that talks only to the YARP gateway. The
 browser holds an **HttpOnly** session cookie issued by the Identity service; no access tokens
@@ -23,7 +23,7 @@ ever reach JavaScript. State-changing requests carry the XSRF double-submit head
 ## Run it
 
 The storefront needs the gateway (and the services behind it) running. Start the backend first —
-clone [`amasen02/FreshCart`](https://github.com/amasen02/FreshCart) and boot the platform with the
+clone [`amasen02/freshcart-backend`](https://github.com/amasen02/freshcart-backend) and boot the platform with the
 Aspire AppHost or Docker Compose (see that repo's README), which exposes the gateway on
 `https://localhost:7100` and seeds the demo accounts.
 
@@ -163,4 +163,4 @@ including for commercial purposes, provided the copyright notice is retained.
 **Ama Senevirathne** — Senior Software Engineer & Tech Lead.
 
 - [GitHub](https://github.com/amasen02)
-- Backend / platform: [amasen02/FreshCart](https://github.com/amasen02/FreshCart)
+- Backend / platform: [amasen02/freshcart-backend](https://github.com/amasen02/freshcart-backend)
