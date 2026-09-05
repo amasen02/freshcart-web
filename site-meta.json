@@ -1,0 +1,3991 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "sitewright",
+    "version": "0.1.0"
+  },
+  "build": {
+    "id": "sha256:eb04145a802ad96340dda473c78c126b59502c12a6c5c224727be8c8d26f0936",
+    "sourceRepository": "amasen02/freshcart-web",
+    "sourceCommit": "27e03cd7ced577cb67ae75bf31b98578e0c6da76",
+    "defaultBranch": "master",
+    "builtAt": "2026-09-05T22:12:09.223Z",
+    "projectKind": "web-app"
+  },
+  "sources": [
+    {
+      "id": "path:package.json",
+      "kind": "path",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519"
+    },
+    {
+      "id": "repo:README.md#L1-L1",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 1,
+      "lineEnd": 1,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L1-L1",
+      "sha256": "82c6fc1f75babc63d25eb8e3982291cea0d7f931d330a6cd1f50244cc95066ee"
+    },
+    {
+      "id": "repo:README.md#L2-L8",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 2,
+      "lineEnd": 8,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L2-L8",
+      "sha256": "49bb607342ab3f01a4c59aab6c3bcd7912307acbbccc50bee8c453cdfd71139a"
+    },
+    {
+      "id": "repo:README.md#L9-L13",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 9,
+      "lineEnd": 13,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L9-L13",
+      "sha256": "c06cad6b5d9bae9244ab4042d43c76882ce145b3b04bf8a2098337232fd76300"
+    },
+    {
+      "id": "repo:README.md#L14-L15",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 14,
+      "lineEnd": 15,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L14-L15",
+      "sha256": "1f7a96c3749abfa4ed62c5e7a1904ec159aed68937e9a98b49fc554cad7f9012"
+    },
+    {
+      "id": "repo:README.md#L16-L19",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 16,
+      "lineEnd": 19,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L16-L19",
+      "sha256": "cca656b1adbce55dbcf534c9071638e025a83ce40eab36779a3c380c59abf053"
+    },
+    {
+      "id": "repo:README.md#L20-L21",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 20,
+      "lineEnd": 21,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L20-L21",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L23-L23",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 23,
+      "lineEnd": 23,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L23-L23",
+      "sha256": "5350d592a43d19c623c40e1d6512f49877e8ddd9c6b673a42f1ff48af6d52743"
+    },
+    {
+      "id": "repo:README.md#L24-L28",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 24,
+      "lineEnd": 28,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L24-L28",
+      "sha256": "a9411470bb9c45b044b6eed17406694ef9d33e776c6e5a0352fea524433bba12"
+    },
+    {
+      "id": "repo:README.md#L29-L30",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 29,
+      "lineEnd": 30,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L29-L30",
+      "sha256": "1368c4b528d12797c7f542b864e24d0550a665d74649676bc384765eea79675a"
+    },
+    {
+      "id": "repo:README.md#L74-L74",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 74,
+      "lineEnd": 74,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L74-L74",
+      "sha256": "a7e56472b11bd3c838bc8199601f5a5527112a003c69fbf95b012bc13573a193"
+    },
+    {
+      "id": "repo:README.md#L31-L35",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 31,
+      "lineEnd": 35,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L31-L35",
+      "sha256": "8405a2d56493c474a3f544f7b6d505f85a87b67aabba142bc216846f94a0ad96"
+    },
+    {
+      "id": "repo:README.md#L36-L38",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 36,
+      "lineEnd": 38,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L36-L38",
+      "sha256": "5526ec8b7405e4074fe0fb4a678380e67d0f81413c83be35f8e5d2713079cb0b"
+    },
+    {
+      "id": "repo:README.md#L39-L44",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 39,
+      "lineEnd": 44,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L39-L44",
+      "sha256": "c531af9a47de40bebf1a2b28d1dfc8303badf79f2941b36cd4512642270f38b7"
+    },
+    {
+      "id": "repo:README.md#L46-L46",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 46,
+      "lineEnd": 46,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L46-L46",
+      "sha256": "9262a7d8f171482844ae133746ce201e183c1243d85fdface312491273f3ba9c"
+    },
+    {
+      "id": "repo:README.md#L47-L48",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 47,
+      "lineEnd": 48,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L47-L48",
+      "sha256": "36c964f0ca5b5609362b4bc2828dd6d2ead568a90231f1ced87e13f64f382ffb"
+    },
+    {
+      "id": "repo:README.md#L49-L53",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 49,
+      "lineEnd": 53,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L49-L53",
+      "sha256": "08f3c17cfc2962e7d4d57ebd736750991ad99fa8a7c7781b983d702b5374d83c"
+    },
+    {
+      "id": "repo:README.md#L54-L56",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 54,
+      "lineEnd": 56,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L54-L56",
+      "sha256": "3c866ebf1b04fd594d96a17bfc6feb4bc2d8b7e337423705e9b51edf93350065"
+    },
+    {
+      "id": "repo:README.md#L57-L58",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 57,
+      "lineEnd": 58,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L57-L58",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L60-L60",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 60,
+      "lineEnd": 60,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L60-L60",
+      "sha256": "22fb73a35490cf0625c1ee215351c11eb6e9e80aaa291b132a28bc172fb4fdc1"
+    },
+    {
+      "id": "repo:README.md#L61-L64",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 61,
+      "lineEnd": 64,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L61-L64",
+      "sha256": "d028d5a9cf9923c0bdde17b8f924733982ab89f4676616d7cdc6f23c1040c327"
+    },
+    {
+      "id": "repo:README.md#L65-L67",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 65,
+      "lineEnd": 67,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L65-L67",
+      "sha256": "370878ddcd153001cd00511f96578cfbf971b25d2e3c52bd80b99e1e6c4aa241"
+    },
+    {
+      "id": "repo:README.md#L71-L72",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 71,
+      "lineEnd": 72,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L71-L72",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L75-L86",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 75,
+      "lineEnd": 86,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L75-L86",
+      "sha256": "b9b13651db4e812d4a6477957f5e83197d17b6c57d2854dc3514d00d29bba23e"
+    },
+    {
+      "id": "repo:README.md#L87-L91",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 87,
+      "lineEnd": 91,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L87-L91",
+      "sha256": "73a3fa3dd8bc107e006ce4a673506339fdbb20b672cabfce2d3ffe785c4b282c"
+    },
+    {
+      "id": "repo:README.md#L93-L93",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 93,
+      "lineEnd": 93,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L93-L93",
+      "sha256": "d44e53ae474e0ac51830c1453d4c4a73519ae4b388375d7641511cf40a2e4268"
+    },
+    {
+      "id": "repo:README.md#L94-L97",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 94,
+      "lineEnd": 97,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L94-L97",
+      "sha256": "7d4850313f378cb95a9f07a45b9ed4144fab1100ee0024e0b997aa6ba3a4c879"
+    },
+    {
+      "id": "repo:README.md#L98-L103",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 98,
+      "lineEnd": 103,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L98-L103",
+      "sha256": "080d567d3918768cb89e8ec25a22ed89d005048dba3386963812724f3daed0c6"
+    },
+    {
+      "id": "repo:README.md#L104-L110",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 104,
+      "lineEnd": 110,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L104-L110",
+      "sha256": "7f8d4442d3f613f67e556584f19814bf2457c4d83a77283da9cd22373ebdfa73"
+    },
+    {
+      "id": "repo:README.md#L111-L113",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 111,
+      "lineEnd": 113,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L111-L113",
+      "sha256": "1b6a20922367a131b4b76c472bcde90f98bbf345617bbbb973d2bd05746d88d1"
+    },
+    {
+      "id": "repo:README.md#L114-L115",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 114,
+      "lineEnd": 115,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L114-L115",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L117-L117",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 117,
+      "lineEnd": 117,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L117-L117",
+      "sha256": "1763cab6af17596e50c784b866c352b0baf4560b664bb633dbd1b20d524f94a0"
+    },
+    {
+      "id": "repo:README.md#L118-L124",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 118,
+      "lineEnd": 124,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L118-L124",
+      "sha256": "5f1e5a2ed3f8d2788bd5ab748ee724b563fcd3aa1899f2896d73801efa113c65"
+    },
+    {
+      "id": "repo:README.md#L125-L126",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 125,
+      "lineEnd": 126,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L125-L126",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L128-L128",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 128,
+      "lineEnd": 128,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L128-L128",
+      "sha256": "47964f2d9e2f904f6d8d7e6a7bc401ec09137d666cb8d4c614b14a329d8a5333"
+    },
+    {
+      "id": "repo:README.md#L129-L134",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 129,
+      "lineEnd": 134,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L129-L134",
+      "sha256": "1db6b778864b70e5467469006f8090cde19bbeea2b4d629d769f5c83ab2bd19e"
+    },
+    {
+      "id": "repo:README.md#L135-L138",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 135,
+      "lineEnd": 138,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L135-L138",
+      "sha256": "63d69abed6faa10e4552c9ea00acd9784e583aa933785184e196ed9f5b770513"
+    },
+    {
+      "id": "repo:README.md#L140-L140",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 140,
+      "lineEnd": 140,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L140-L140",
+      "sha256": "60e2c521ca12ea4c8c3f17fb7ea279354af6f58aeb4c68f394ab19f997bddeb2"
+    },
+    {
+      "id": "repo:README.md#L141-L142",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 141,
+      "lineEnd": 142,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L141-L142",
+      "sha256": "f2da07c6b0622c14b034cefe4d2f29e27ad519eed5770529bb6daa48b42cf56a"
+    },
+    {
+      "id": "repo:README.md#L143-L152",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 143,
+      "lineEnd": 152,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L143-L152",
+      "sha256": "cf1830fca8898c2b3d11068629ffc4936189f5333c334f607c4c4b23aeaa7743"
+    },
+    {
+      "id": "repo:README.md#L153-L154",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 153,
+      "lineEnd": 154,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L153-L154",
+      "sha256": "3d0b188170e8f7ed4b0a730d3fae39933057e60ba9e030bc278c446442cbabc3"
+    },
+    {
+      "id": "repo:README.md#L156-L156",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 156,
+      "lineEnd": 156,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L156-L156",
+      "sha256": "6c549a56db01e021f248d8da78289a3197d3db86fe0d36d33381d0dfc711e8bc"
+    },
+    {
+      "id": "repo:README.md#L157-L159",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 157,
+      "lineEnd": 159,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L157-L159",
+      "sha256": "ac66e9b52bd3ce11838afeeee727f0946ceb6c7dd32cf0ef6e544bf579e7059a"
+    },
+    {
+      "id": "repo:README.md#L161-L161",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 161,
+      "lineEnd": 161,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L161-L161",
+      "sha256": "fe527bbec0dc506353c1bccc96f1a9c8cad38750fd34e3f23fd68503b13f9c4c"
+    },
+    {
+      "id": "repo:README.md#L162-L163",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 162,
+      "lineEnd": 163,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L162-L163",
+      "sha256": "07cb98637cd37cde1c18b27b7409c9e4c2cffc408a76fc01abd27091b9744fe3"
+    },
+    {
+      "id": "repo:README.md#L164-L166",
+      "kind": "repo-text",
+      "path": "README.md",
+      "lineStart": 164,
+      "lineEnd": 166,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md#L164-L166",
+      "sha256": "84842bcfc6d2599e950a8fdf85998b51c47869760b9220a1ce016564e1082e2e"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L1-L1",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 1,
+      "lineEnd": 1,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L1-L1",
+      "sha256": "4f741a616c658e41437adabb50ba96da218bc43ab2f02ebfc8a294d0e82dcccd"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L2-L6",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 2,
+      "lineEnd": 6,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L2-L6",
+      "sha256": "d9196e1c9dafe90a83fc1fba8818af8fe94ed8f76387212965e51c578e6c64d4"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L7-L9",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 7,
+      "lineEnd": 9,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L7-L9",
+      "sha256": "f04dad2a7a5841b34e4c54fb59f2401f503f699fa65f7869835f3319cb5ac877"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L11-L11",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 11,
+      "lineEnd": 11,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L11-L11",
+      "sha256": "4cf42fcd9b6f10e77766a6d52d21269bef09a3ce105aa9d43ba6154c165313b9"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L12-L20",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 12,
+      "lineEnd": 20,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L12-L20",
+      "sha256": "82e912d7c68478add099e70f0718026d2b319206353d7506c8904637ce5cb396"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L22-L22",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 22,
+      "lineEnd": 22,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L22-L22",
+      "sha256": "9a25d3cb41f902418255d964743ec80a9d193406200e203a0d9fc9f57c912898"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L23-L36",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 23,
+      "lineEnd": 36,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L23-L36",
+      "sha256": "d0d10e159f3fca722183a7ce445784119c9f7fdb84fa85659e1e9f81ec6b96cc"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L38-L38",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 38,
+      "lineEnd": 38,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L38-L38",
+      "sha256": "d1bf8920c6b84c8a8388ba479ec89ba147a0c350366fb04f3fd1cbfb402fbaec"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L39-L42",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 39,
+      "lineEnd": 42,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L39-L42",
+      "sha256": "6b9866f8b163bd3e940c08e8e88ee1cabdd79829d59187066c48e38f8e23bcfc"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L43-L50",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 43,
+      "lineEnd": 50,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L43-L50",
+      "sha256": "ccc4a458c28228fbe4c22787b99371594f5cb7f4bc57540452b05d6b33f7d38c"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L52-L52",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 52,
+      "lineEnd": 52,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L52-L52",
+      "sha256": "8b1a2bca483ccee09a46e90fe46e8dbbd06cd2b00675757273c02082d631bb49"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L53-L55",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 53,
+      "lineEnd": 55,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L53-L55",
+      "sha256": "757486655ed61a201ca979ab34864bdba0a95fc30416fbd8a6c1d3adee896f3d"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L57-L57",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 57,
+      "lineEnd": 57,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L57-L57",
+      "sha256": "15d27d8fcf76da9e108810d5f750488ab0a1d3eb612676503ad39321a2322c0e"
+    },
+    {
+      "id": "repo:CONTRIBUTING.md#L58-L60",
+      "kind": "repo-text",
+      "path": "CONTRIBUTING.md",
+      "lineStart": 58,
+      "lineEnd": 60,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md#L58-L60",
+      "sha256": "d76d4de034c19a1b884717f62a1cf447ae85bcc8a7fac97b68830af807460c56"
+    },
+    {
+      "id": "repo:SECURITY.md#L1-L1",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 1,
+      "lineEnd": 1,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L1-L1",
+      "sha256": "e7a663e751ecd9127681ac9821864185e9b708863c05d8a5a4431b052d1175c4"
+    },
+    {
+      "id": "repo:SECURITY.md#L3-L3",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 3,
+      "lineEnd": 3,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L3-L3",
+      "sha256": "9379308cc12e19d746cac99c399cc1887589eddd5d941a736b0b3365ff5618e2"
+    },
+    {
+      "id": "repo:SECURITY.md#L4-L5",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 4,
+      "lineEnd": 5,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L4-L5",
+      "sha256": "0cd066383a0fa7b94a900069be8a6c057aba3dcb0a83a3df2df614dae9e6336c"
+    },
+    {
+      "id": "repo:SECURITY.md#L6-L16",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 6,
+      "lineEnd": 16,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L6-L16",
+      "sha256": "97738f3105df11864ccb55ee05a909735283ce6de8bdf19e905cda1040cf8137"
+    },
+    {
+      "id": "repo:SECURITY.md#L18-L18",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 18,
+      "lineEnd": 18,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L18-L18",
+      "sha256": "d2beab141abc2ad395a5e8493b69658030e2b0a98d64adc9b81d10a7731db4e4"
+    },
+    {
+      "id": "repo:SECURITY.md#L20-L22",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 20,
+      "lineEnd": 22,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L20-L22",
+      "sha256": "ebb7c7cef8130df95b63635c5999322dd180a6ecd29f170aae05643762d89dda"
+    },
+    {
+      "id": "repo:SECURITY.md#L24-L24",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 24,
+      "lineEnd": 24,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L24-L24",
+      "sha256": "c5e37d75de93b474a1be6c9cde7076f00e36637e05b1c7f4e7de446e3df14fd6"
+    },
+    {
+      "id": "repo:SECURITY.md#L25-L26",
+      "kind": "repo-text",
+      "path": "SECURITY.md",
+      "lineStart": 25,
+      "lineEnd": 26,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md#L25-L26",
+      "sha256": "6d3f581bd77892ad07ff45be7b028a2828f2ef157b703b8c7702f574f91748d6"
+    },
+    {
+      "id": "manifest:package.json#/name",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/name",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "ac051f4bb14c61fc4076cded787fced707697870582ba8dde873e013ade39471"
+    },
+    {
+      "id": "manifest:package.json#/scripts/start",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/scripts/start",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "9987141cfb67c37bec12d737d9039d0c8882db4927db68c152838b78efae8d15"
+    },
+    {
+      "id": "manifest:package.json#/scripts/build",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/scripts/build",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "3222cf6fb9fca3853ec60943676d7a61967f652f0d0a42495d1e694fe9b17e8f"
+    },
+    {
+      "id": "manifest:package.json#/scripts/test",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/scripts/test",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "528aae3e131d32ddc949c656a5cfb7c47759076d44b3c0907ff089134aa0e8c4"
+    },
+    {
+      "id": "manifest:package.json#/scripts/lint",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/scripts/lint",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "8d670373c292ccfa21d0829a97b6cfe0a7606267fcec876224e5dcfc0e256910"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1animations",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1animations",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1common",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1common",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1compiler",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1compiler",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1core",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1core",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1forms",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1forms",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1localize",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1localize",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1platform-browser",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1platform-browser",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@angular~1router",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@angular~1router",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@microsoft~1signalr",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@microsoft~1signalr",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "450eb07e091f10d6be4b42f51cafd09aad40da0465a444a3f654bde27059bfe3"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@ng-bootstrap~1ng-bootstrap",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@ng-bootstrap~1ng-bootstrap",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "243ba70f77beb21a0da0640e91efdd38adc8b56b2ccc4c860d0847c57a827928"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/@ngrx~1signals",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/@ngrx~1signals",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/bootstrap",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/bootstrap",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "40c3315cd7eb9e18ccbc6b25322f8fb613af31a87ad748fc56cd16f533c783de"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/bootstrap-icons",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/bootstrap-icons",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "10576b5b8621fc7b788a0f8a121883c2f67b4af07639a76c5c3b46a5f1f17e7a"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/chart.js",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/chart.js",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "8abcae0ae15783db81d75252078484e67b78f0d1f98dd62a0b4454ec51a7a9dd"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/rxjs",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/rxjs",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "67c8ee7f313d3ff284d45964c150d336cf3387d486d1e8bbd82d785092b32c8e"
+    },
+    {
+      "id": "manifest:package.json#/dependencies/tslib",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/dependencies/tslib",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "88decdb06bbc2d0f12546af668a4751faaf24f54fe3569057e0ef89c0ae69417"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/@angular~1build",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/@angular~1build",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/@angular~1cli",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/@angular~1cli",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/@angular~1compiler-cli",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/@angular~1compiler-cli",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/@eslint~1js",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/@eslint~1js",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "328b0989996e3eaf04ab23095209255d853199787a9668acaf4800157d01483e"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/@types~1jasmine",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/@types~1jasmine",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "0fa1cece725738416db52f8d3b8677076bff4031300b1dbef59cafd8e42ef3a2"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/angular-eslint",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/angular-eslint",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "d868ba3659d317d5e214ee34c3152dd78e2dfd5c8cc63d31de71e83fc995e3f6"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/eslint",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/eslint",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "328b0989996e3eaf04ab23095209255d853199787a9668acaf4800157d01483e"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/jasmine-core",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/jasmine-core",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "ba757374c23906519a5b4991e59423b73a1bbdb8c4cb8123b979ceab5ed9fa16"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/karma",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/karma",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "c5d7a1a12b9061d98bc7ee1c80fba4056d4f33e6acf9b3de0f646af1896a1e6d"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/karma-chrome-launcher",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/karma-chrome-launcher",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "a3bb5470b96d8a8ef8a71825c8b7d6f8725e39857756a6db5e7b2cec7fb221bf"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/karma-coverage",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/karma-coverage",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "380d0847e3b64ebd72a8228766ad73bda1a2f33e9c279fee6f6d90d28420a5ae"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/karma-jasmine",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/karma-jasmine",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "0fa1cece725738416db52f8d3b8677076bff4031300b1dbef59cafd8e42ef3a2"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/karma-jasmine-html-reporter",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/karma-jasmine-html-reporter",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "1d90b68da4796acd1e61ee80dbd7f7789e84850c3a337b9b5c017f7d7d003811"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/typescript",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/typescript",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "aa26473933116184c2e4ef1f6fff769149129da95ad9da08c0c6a712944cf846"
+    },
+    {
+      "id": "manifest:package.json#/devDependencies/typescript-eslint",
+      "kind": "manifest",
+      "path": "package.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "/devDependencies/typescript-eslint",
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json",
+      "sha256": "6479aaf5a533fce7f156ec6229150851858072be9f06961f83241971a2259bf8"
+    },
+    {
+      "id": "repo:package.json#L1-L46",
+      "kind": "repo-text",
+      "path": "package.json",
+      "lineStart": 1,
+      "lineEnd": 46,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package.json#L1-L46",
+      "sha256": "362c9f716112c631ad205f0c0c67f635f86931b74fec341777a794e9f535f8be"
+    },
+    {
+      "id": "repo:LICENSE#L1-L1",
+      "kind": "license",
+      "path": "LICENSE",
+      "lineStart": 1,
+      "lineEnd": 1,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE#L1-L1",
+      "sha256": "abb2896dc3c2a9402f901b88d5035cf0a83d5cf7c17e73642cdf562b0b9d3bc5"
+    },
+    {
+      "id": "repo:LICENSE#L2-L3",
+      "kind": "license",
+      "path": "LICENSE",
+      "lineStart": 2,
+      "lineEnd": 3,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE#L2-L3",
+      "sha256": "ca13c0f3889e2177d83bb0605b5e69a61ac854be536bbccdb4eb08f3fface5d9"
+    },
+    {
+      "id": "repo:LICENSE#L4-L10",
+      "kind": "license",
+      "path": "LICENSE",
+      "lineStart": 4,
+      "lineEnd": 10,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE#L4-L10",
+      "sha256": "3c29b6956f98f3aebd3dfb24fab5700be7d58095c66949396ce181d281494454"
+    },
+    {
+      "id": "repo:LICENSE#L11-L13",
+      "kind": "license",
+      "path": "LICENSE",
+      "lineStart": 11,
+      "lineEnd": 13,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE#L11-L13",
+      "sha256": "8c16842a814d1e8f3233e057f8281dd6f47ec2d2e8da34bb1b8883f9e3209bd3"
+    },
+    {
+      "id": "repo:LICENSE#L14-L21",
+      "kind": "license",
+      "path": "LICENSE",
+      "lineStart": 14,
+      "lineEnd": 21,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE#L14-L21",
+      "sha256": "476ac54813ae9265a5334a72898018cd4c2cc9fe697ea680706cba198e906167"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L1-L1",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 1,
+      "lineEnd": 1,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L1-L1",
+      "sha256": "5c4688e3c1ee3aecda2246830b648e4ddbba4deb666ab90343436ab1a3a97f27"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L2-L2",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 2,
+      "lineEnd": 2,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L2-L2",
+      "sha256": "62512934ab7fcefa86c676e7f8b6c267e84854bdd9f8d204757cd4d443ec76b8"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L3-L3",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 3,
+      "lineEnd": 3,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L3-L3",
+      "sha256": "e9eec993ce1222ff2a700b50136c61773b3527af290548a15ac0f98769c2bba0"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L4-L4",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 4,
+      "lineEnd": 4,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L4-L4",
+      "sha256": "ee1a66a7f7f3a129a564686a044ffa17d73dc3dad458577ae0e2247fe4d0d107"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L5-L6",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 5,
+      "lineEnd": 6,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L5-L6",
+      "sha256": "cff298103c3dc6e091b51db7bf6ce9c564e3585a8ea2073f6d9f46f30df22a0d"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L7-L13",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 7,
+      "lineEnd": 13,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L7-L13",
+      "sha256": "296c3c7918663455922d5272dde3661c174a7886db59034e156a241fa205c9ec"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L14-L17",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 14,
+      "lineEnd": 17,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L14-L17",
+      "sha256": "ad67a7d0c81c0d9981da8000909a23d09efdbb8e9456d5b7b1b313c8ab158a8d"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L18-L22",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 18,
+      "lineEnd": 22,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L18-L22",
+      "sha256": "44e330b8d0643eb3675e7f82fd270797415630690a59cb6733c809ac41a98e05"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L23-L26",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 23,
+      "lineEnd": 26,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L23-L26",
+      "sha256": "28ae71457ed2dceb710322a91330f3d3054fa5c07e1cd99bb762f29db5dc02e1"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L27-L32",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 27,
+      "lineEnd": 32,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L27-L32",
+      "sha256": "10916790a1eff85fdcb300625f8353e65682acd1d3c0604189c48e68b8f69cdb"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L33-L35",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 33,
+      "lineEnd": 35,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L33-L35",
+      "sha256": "34a4fbf3b0a54317a9b1c4657e5e94a2b6ddc124cf2d1d0fa044f61111183ea9"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L36-L38",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 36,
+      "lineEnd": 38,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L36-L38",
+      "sha256": "f2bcb6382372d85e748b0e0a94995ff1eab19da926db5efd7d30dfef0e532323"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L39-L41",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 39,
+      "lineEnd": 41,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L39-L41",
+      "sha256": "2ce7eaf5f5f1ce1be1266a8a12866bdc2bf5f2eb3848659323288c6f5bb7f2d0"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L42-L44",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 42,
+      "lineEnd": 44,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L42-L44",
+      "sha256": "d9b3839627d423be1241245573183a9aea723fec46a7b0ca7903823352c40d64"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L45-L51",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 45,
+      "lineEnd": 51,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L45-L51",
+      "sha256": "840580fed3bf2f35b4b83350ec0fb273b86a58bfd598e7e031db4738b829d20b"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L52-L61",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 52,
+      "lineEnd": 61,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L52-L61",
+      "sha256": "b1dacebf5f34b2393ec70d1448f213a24ea54118456abdffdcc83cc6a347cd34"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L62-L65",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 62,
+      "lineEnd": 65,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L62-L65",
+      "sha256": "28ae71457ed2dceb710322a91330f3d3054fa5c07e1cd99bb762f29db5dc02e1"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L66-L68",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 66,
+      "lineEnd": 68,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L66-L68",
+      "sha256": "37d4e5d91082532648ba69bfad1ffa22bca17ea4a9d59b51b5edd334fa039ee4"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L69-L72",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 69,
+      "lineEnd": 72,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L69-L72",
+      "sha256": "155fd1edde91927ab37d886c77a4744e01b10f180770ee646a571d8232965e30"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L73-L78",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 73,
+      "lineEnd": 78,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L73-L78",
+      "sha256": "658190894b3932f84542d2b627866ed8cc61efdb0276ae828e63819e7a4a6858"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L80-L90",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 80,
+      "lineEnd": 90,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L80-L90",
+      "sha256": "706e91d08c5165c3c1a64fcc864ec832fbbcdce65c9dea319df3d608aabcda65"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L91-L101",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 91,
+      "lineEnd": 101,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L91-L101",
+      "sha256": "a08f190e551a301494b6d24ed6f6877cf6826b5c21995d8dfbdddd8958d1b0aa"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L102-L108",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 102,
+      "lineEnd": 108,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L102-L108",
+      "sha256": "cb22b182c8c208798b009b18b57c338951bc6406e184c4e34731bba589e4d935"
+    },
+    {
+      "id": "repo:.github/workflows/ci.yml#L109-L119",
+      "kind": "repo-text",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": 109,
+      "lineEnd": 119,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml#L109-L119",
+      "sha256": "879ae86ef52bedc711df6300cbc33e6cc08744870e157dee8043ed6ced456846"
+    },
+    {
+      "id": "path:.editorconfig",
+      "kind": "path",
+      "path": ".editorconfig",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.editorconfig",
+      "sha256": "0947e2727d6bad8cd0ac4122f5314bb5b04e337393075bc4b5ef143b17fcbd5b"
+    },
+    {
+      "id": "path:.gitattributes",
+      "kind": "path",
+      "path": ".gitattributes",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.gitattributes",
+      "sha256": "618cd5b83d62060ba3d027e314a21ceaf75d36067ff820db126642944145393e"
+    },
+    {
+      "id": "path:.github/ISSUE_TEMPLATE/bug_report.yml",
+      "kind": "path",
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/ISSUE_TEMPLATE/bug_report.yml",
+      "sha256": "637f7b97bba458badb691a1557c3d4648686292e948dbe3e8360564378b653ef"
+    },
+    {
+      "id": "path:.github/ISSUE_TEMPLATE/config.yml",
+      "kind": "path",
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "1c0d972ee49103af56fd608a77a28e1eb12f6908f263f0f183d46868fdcd8ea2"
+    },
+    {
+      "id": "path:.github/ISSUE_TEMPLATE/feature_request.yml",
+      "kind": "path",
+      "path": ".github/ISSUE_TEMPLATE/feature_request.yml",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/ISSUE_TEMPLATE/feature_request.yml",
+      "sha256": "c6b098646bf32c644234bec14c2675ea2a3d9c2dc2df450a25aa0e7ff02323cd"
+    },
+    {
+      "id": "path:.github/PULL_REQUEST_TEMPLATE.md",
+      "kind": "path",
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/PULL_REQUEST_TEMPLATE.md",
+      "sha256": "18813c86948efc57e661623d7ba48ff94325c9b5421ec9177f724922dd553a35"
+    },
+    {
+      "id": "path:.github/dependabot.yml",
+      "kind": "path",
+      "path": ".github/dependabot.yml",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/dependabot.yml",
+      "sha256": "dd4fbda47e51f1e35defb9275a9cd9c212ecde0b870cba89ddaaae65c5f3cd28"
+    },
+    {
+      "id": "path:.github/workflows/ci.yml",
+      "kind": "path",
+      "path": ".github/workflows/ci.yml",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.github/workflows/ci.yml",
+      "sha256": "b803fcb7f17ed9235f1e5cb1fcd2f5d3b2838429d4368ae4c57ce4436577f03f"
+    },
+    {
+      "id": "path:.gitignore",
+      "kind": "path",
+      "path": ".gitignore",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/.gitignore",
+      "sha256": "bc37d034bad564583790a46f19d807abfe519c5671395fd494d8cce506c42947"
+    },
+    {
+      "id": "path:CODEOWNERS",
+      "kind": "path",
+      "path": "CODEOWNERS",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CODEOWNERS",
+      "sha256": "fcf14c4b7b34fe7a11916195871ae66a59be87a395f28db73e345ebdc828085b"
+    },
+    {
+      "id": "path:CODE_OF_CONDUCT.md",
+      "kind": "path",
+      "path": "CODE_OF_CONDUCT.md",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CODE_OF_CONDUCT.md",
+      "sha256": "ffdbe3a1e7ee93cacfc080b6c635ccf3a8f6b0f00f2fb884f78c6b5f9dac8fd2"
+    },
+    {
+      "id": "path:CONTRIBUTING.md",
+      "kind": "path",
+      "path": "CONTRIBUTING.md",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/CONTRIBUTING.md",
+      "sha256": "eca12c0a30e25b4b46522ebf89465a03ba72a03f540796c979137931d8f92055"
+    },
+    {
+      "id": "path:Dockerfile",
+      "kind": "path",
+      "path": "Dockerfile",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/Dockerfile",
+      "sha256": "dd2c0eb6ea5cfc6c4bd4eac30934e2d5746747af48fef6da689e85b752f39557"
+    },
+    {
+      "id": "path:LICENSE",
+      "kind": "path",
+      "path": "LICENSE",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/LICENSE",
+      "sha256": "c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7"
+    },
+    {
+      "id": "path:README.md",
+      "kind": "path",
+      "path": "README.md",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/README.md",
+      "sha256": "b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5"
+    },
+    {
+      "id": "path:SECURITY.md",
+      "kind": "path",
+      "path": "SECURITY.md",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/SECURITY.md",
+      "sha256": "f6ed156e4bf5c791680662464b94ea5d753f219ee816b385f67870e2c0d7d4c7"
+    },
+    {
+      "id": "path:angular.json",
+      "kind": "path",
+      "path": "angular.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/angular.json",
+      "sha256": "2d2675bb4687601a5c7ccf707455132f90f3516a33716185687e5c41df59ac7d"
+    },
+    {
+      "id": "path:eslint.config.js",
+      "kind": "path",
+      "path": "eslint.config.js",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/eslint.config.js",
+      "sha256": "a32a0887ed9d1d707bbb3b845b7df7fd40e673c47e7b60a3ebd896b68d3b8839"
+    },
+    {
+      "id": "path:karma.conf.js",
+      "kind": "path",
+      "path": "karma.conf.js",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/karma.conf.js",
+      "sha256": "25bdb46a5428d318648ec9eb46a99c0268d8c96b672c46e2247a685bc3e384fb"
+    },
+    {
+      "id": "path:nginx.conf",
+      "kind": "path",
+      "path": "nginx.conf",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/nginx.conf",
+      "sha256": "1f91f64bfa3fb0a1ece881887af0a2356b8c529a96fb91c1894745b2a1a009aa"
+    },
+    {
+      "id": "path:package-lock.json",
+      "kind": "path",
+      "path": "package-lock.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/package-lock.json",
+      "sha256": "053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519"
+    },
+    {
+      "id": "path:proxy.conf.json",
+      "kind": "path",
+      "path": "proxy.conf.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/proxy.conf.json",
+      "sha256": "d6f20a3a008c3177570d192e35506c72490d672f89d597f89a68f6dad0f4b79a"
+    },
+    {
+      "id": "path:src/app/app.component.ts",
+      "kind": "path",
+      "path": "src/app/app.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/app.component.ts",
+      "sha256": "884f7f49640e5923f6bcac4c51d90340330a178f662defbe61e5f5aac1c512de"
+    },
+    {
+      "id": "path:src/app/app.config.ts",
+      "kind": "path",
+      "path": "src/app/app.config.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/app.config.ts",
+      "sha256": "fff0e6dc5626f82b3c71292d91384f36da38d5437a8ed1946eb9b903505ac035"
+    },
+    {
+      "id": "path:src/app/app.routes.ts",
+      "kind": "path",
+      "path": "src/app/app.routes.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/app.routes.ts",
+      "sha256": "7d01226345966b27520a30fae71d6f3d17f54d3d06bcbc3f0dff4195fc7d9cfc"
+    },
+    {
+      "id": "path:src/app/core/auth/auth.guard.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/auth.guard.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/auth.guard.spec.ts",
+      "sha256": "d3efc2e40789e79484e19200065f6d3044150a7ff79f453b5c5a4d270b2dcbcd"
+    },
+    {
+      "id": "path:src/app/core/auth/auth.guard.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/auth.guard.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/auth.guard.ts",
+      "sha256": "168c99867ca73c1c3c216a62712f18c1dde2149b731a0af35a801919ead9c3ab"
+    },
+    {
+      "id": "path:src/app/core/auth/auth.models.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/auth.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/auth.models.ts",
+      "sha256": "08a7feed87054bb211d702e44dae6e168744d9078f8033da58a7c168cdcfa5c2"
+    },
+    {
+      "id": "path:src/app/core/auth/auth.store.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/auth.store.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/auth.store.spec.ts",
+      "sha256": "3ed4cea54ce7b287e6d38eab17d1a2fe7d33138e7b5eb6622ca3813efabac95e"
+    },
+    {
+      "id": "path:src/app/core/auth/auth.store.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/auth.store.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/auth.store.ts",
+      "sha256": "34f4310b6369db3a09d7d1f12e2858f446b1b09a1c9f90055f08860b516d0847"
+    },
+    {
+      "id": "path:src/app/core/auth/current-user.model.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/current-user.model.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/current-user.model.ts",
+      "sha256": "da5db365039c6eab8088c56fc45ef73a73b774321e318d2faf28bb04a99fb930"
+    },
+    {
+      "id": "path:src/app/core/auth/guest.guard.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/guest.guard.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/guest.guard.spec.ts",
+      "sha256": "17897e3b7311c87e8b84f798461f209fc1a9f7955e14231c2d889b8ef40d0dac"
+    },
+    {
+      "id": "path:src/app/core/auth/guest.guard.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/guest.guard.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/guest.guard.ts",
+      "sha256": "e00b4ccc8e61c7ebcd44222aa00dbe53bebfd0e63dd261a66376cbb9ce31aec3"
+    },
+    {
+      "id": "path:src/app/core/auth/role.guard.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/role.guard.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/role.guard.spec.ts",
+      "sha256": "1229e7504c2bb0609294b43338c1bb81980a6c0f8c7b2afa006d97aad74a946d"
+    },
+    {
+      "id": "path:src/app/core/auth/role.guard.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/role.guard.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/role.guard.ts",
+      "sha256": "413018ed4ecb2c6dd3235de915d34dbed6430fa85fa6dabfebead64312ec1b84"
+    },
+    {
+      "id": "path:src/app/core/auth/sign-in-redirect.ts",
+      "kind": "path",
+      "path": "src/app/core/auth/sign-in-redirect.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/auth/sign-in-redirect.ts",
+      "sha256": "5ceda3cc8d03e5f8676d9126343e8e710e27710782e17007dd38b87c1121e4d0"
+    },
+    {
+      "id": "path:src/app/core/basket/basket.model.ts",
+      "kind": "path",
+      "path": "src/app/core/basket/basket.model.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/basket/basket.model.ts",
+      "sha256": "ed5ddaf794508256f37efe38c4d22424906b8aa888daf397fa6ab6f8eac24283"
+    },
+    {
+      "id": "path:src/app/core/basket/basket.store.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/basket/basket.store.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/basket/basket.store.spec.ts",
+      "sha256": "c1f36ae460e33034d6ac88974baddd2237f26747fef5b8476eb2e8edd28a8761"
+    },
+    {
+      "id": "path:src/app/core/basket/basket.store.ts",
+      "kind": "path",
+      "path": "src/app/core/basket/basket.store.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/basket/basket.store.ts",
+      "sha256": "1795ad24ab7cd455820a076aae519040b8e6c010ba1aaeaf26cc483c6429d818"
+    },
+    {
+      "id": "path:src/app/core/config/api-routes.ts",
+      "kind": "path",
+      "path": "src/app/core/config/api-routes.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/config/api-routes.ts",
+      "sha256": "781d2e293c6c8ec1a68e70a581b441194c91818896d96760cdd2b4587b4f5a5e"
+    },
+    {
+      "id": "path:src/app/core/config/clock.ts",
+      "kind": "path",
+      "path": "src/app/core/config/clock.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/config/clock.ts",
+      "sha256": "39736b1da96f501b9293705859356343c31c14ca1fab1ec20841aeacffec3033"
+    },
+    {
+      "id": "path:src/app/core/config/timing.tokens.ts",
+      "kind": "path",
+      "path": "src/app/core/config/timing.tokens.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/config/timing.tokens.ts",
+      "sha256": "58eb5a033582d618c9951ba06d6d3e1e5fc241888bae4b470d9db14b527f1b2b"
+    },
+    {
+      "id": "path:src/app/core/errors/global-error-handler.ts",
+      "kind": "path",
+      "path": "src/app/core/errors/global-error-handler.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/errors/global-error-handler.ts",
+      "sha256": "0568043695880947e460f40dfd3b8348a476b8545d5fd95cad4b7aff70fbd5f8"
+    },
+    {
+      "id": "path:src/app/core/http/api-error.interceptor.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/http/api-error.interceptor.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/http/api-error.interceptor.spec.ts",
+      "sha256": "35cf6c3f3ea3b049eca964245cc5fa5c9d973186d4f6897d979112c41e4c35d3"
+    },
+    {
+      "id": "path:src/app/core/http/api-error.interceptor.ts",
+      "kind": "path",
+      "path": "src/app/core/http/api-error.interceptor.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/http/api-error.interceptor.ts",
+      "sha256": "6f4eb98990f0648d422400889acec0433bb8f8ea45ebf011127d48af29265e51"
+    },
+    {
+      "id": "path:src/app/core/http/api-error.model.ts",
+      "kind": "path",
+      "path": "src/app/core/http/api-error.model.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/http/api-error.model.ts",
+      "sha256": "dbcb232681c5d1454712e087da10783dc456874fc3c76c0ce31ab9be4450ac0d"
+    },
+    {
+      "id": "path:src/app/core/notifications/toast.model.ts",
+      "kind": "path",
+      "path": "src/app/core/notifications/toast.model.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/notifications/toast.model.ts",
+      "sha256": "b9826ce0fcda66f5e5b372cb73dc02bc2ae66e77445c7230179256c3cfd9477c"
+    },
+    {
+      "id": "path:src/app/core/notifications/toast.service.ts",
+      "kind": "path",
+      "path": "src/app/core/notifications/toast.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/notifications/toast.service.ts",
+      "sha256": "5089ed0bc790e0ac71b878785a07452f4661bebaaca469b613b078ba437b74b0"
+    },
+    {
+      "id": "path:src/app/core/realtime/connection-state.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/connection-state.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/connection-state.ts",
+      "sha256": "a4588b0b1176b8b0d3ff3995fd100a0b266f52cea548ff686f328844d0e1cf60"
+    },
+    {
+      "id": "path:src/app/core/realtime/fake-hub-connection.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/fake-hub-connection.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/fake-hub-connection.ts",
+      "sha256": "2d6b272944eda5bc2d41ed832a820fff83e7d722e4713294ca40fda3cb5fd277"
+    },
+    {
+      "id": "path:src/app/core/realtime/notification-hub.events.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/notification-hub.events.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/notification-hub.events.ts",
+      "sha256": "cbf23db357b13309978f0ca125dd218e2cf93b6bf46513c166104d4e477f9a28"
+    },
+    {
+      "id": "path:src/app/core/realtime/notification.model.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/notification.model.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/notification.model.ts",
+      "sha256": "595cd5f4c750be0f66fee6f6e6c458e3141f6c40d0144822169577682e2dddd0"
+    },
+    {
+      "id": "path:src/app/core/realtime/notifications-api.service.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/notifications-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/notifications-api.service.ts",
+      "sha256": "166adc9d418716c0df6d23c0761da5d121ef5bba76fc7f3259f8fab3e367ac52"
+    },
+    {
+      "id": "path:src/app/core/realtime/notifications.store.spec.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/notifications.store.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/notifications.store.spec.ts",
+      "sha256": "cb37315a14f3197e7f2ec32c99c3bcec21645cc11c6880d960b4b2df07c9c9e7"
+    },
+    {
+      "id": "path:src/app/core/realtime/notifications.store.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/notifications.store.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/notifications.store.ts",
+      "sha256": "c1a5789fe61632b6fe5e449f3e71ea91d0231b3995d8b14b3501bab954d16d40"
+    },
+    {
+      "id": "path:src/app/core/realtime/realtime-connection.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/realtime-connection.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/realtime-connection.ts",
+      "sha256": "802190529dca0765dabcc707bbe49ac5441a6f3bca1e07bb19b0cc38fabb4c31"
+    },
+    {
+      "id": "path:src/app/core/realtime/signalr-connection.factory.ts",
+      "kind": "path",
+      "path": "src/app/core/realtime/signalr-connection.factory.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/realtime/signalr-connection.factory.ts",
+      "sha256": "a34bdb2e17daa43aa9eb123242a160f74f3cf3c9c7ebddbb64d38f61d70c4b85"
+    },
+    {
+      "id": "path:src/app/core/routing/freshcart-title.strategy.ts",
+      "kind": "path",
+      "path": "src/app/core/routing/freshcart-title.strategy.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/core/routing/freshcart-title.strategy.ts",
+      "sha256": "f6217374ac47ac98abf726c9bf721ae87f3298d85c165f4afbd67886f6200153"
+    },
+    {
+      "id": "path:src/app/features/account/account-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/account/account-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/account/account-api.service.ts",
+      "sha256": "7dad88c0c21b342475f20dbc1077cb42f461160491bbc8a6b1d08716eaf6613d"
+    },
+    {
+      "id": "path:src/app/features/account/account.models.ts",
+      "kind": "path",
+      "path": "src/app/features/account/account.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/account/account.models.ts",
+      "sha256": "20a17f22a69b0b636d84fd47f2b604e11e59c07bc4e700c84fa6f842a30fa4d3"
+    },
+    {
+      "id": "path:src/app/features/account/account.page.html",
+      "kind": "path",
+      "path": "src/app/features/account/account.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/account/account.page.html",
+      "sha256": "8db5ce2a4007dd3d6e6af558d860e1f59d061033f9dcc5889e202c05bab15967"
+    },
+    {
+      "id": "path:src/app/features/account/account.page.ts",
+      "kind": "path",
+      "path": "src/app/features/account/account.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/account/account.page.ts",
+      "sha256": "e61c31a18306fcc29e1f0ef461daa207f4a338d3a1b8646ca3936a9bf24ea65a"
+    },
+    {
+      "id": "path:src/app/features/account/recovery-codes.component.ts",
+      "kind": "path",
+      "path": "src/app/features/account/recovery-codes.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/account/recovery-codes.component.ts",
+      "sha256": "97ae16aa05417b9b933b1aca0abd0e4e68372f9a294ed98ad781affbc7abf708"
+    },
+    {
+      "id": "path:src/app/features/auth/auth.routes.ts",
+      "kind": "path",
+      "path": "src/app/features/auth/auth.routes.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/auth.routes.ts",
+      "sha256": "e1129718a669933ae67d0caf6c9d1aa4212376dd035202c48ef04cb7725329d0"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-in.page.html",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-in.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-in.page.html",
+      "sha256": "7b6958104d67b3763bbae9601dbea88aa429128758459283a2e9df8368d9c060"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-in.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-in.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-in.page.spec.ts",
+      "sha256": "cbe3c1ad1304090a5109b24757aafbbd1b83f57a0b35546f1cd95b03675b721a"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-in.page.ts",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-in.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-in.page.ts",
+      "sha256": "b450e73c9ab2ff15667612857812a0340888fbc341754b1e80e2faf02b0f1753"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-up.page.html",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-up.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-up.page.html",
+      "sha256": "1a13caf7f529da9f08bb70c91a1b98170c164816ba3bf9622b62ff3c16904888"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-up.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-up.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-up.page.spec.ts",
+      "sha256": "67b8c19a9b2b3f9c65ca52df3b7a484efc35d699d5f2de7ed45afe44faa6ad14"
+    },
+    {
+      "id": "path:src/app/features/auth/sign-up.page.ts",
+      "kind": "path",
+      "path": "src/app/features/auth/sign-up.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/auth/sign-up.page.ts",
+      "sha256": "b76d99812a7e5dea070edc4174b0a3bd1848039a3836a9f6563abacc238b53a1"
+    },
+    {
+      "id": "path:src/app/features/basket/basket.page.html",
+      "kind": "path",
+      "path": "src/app/features/basket/basket.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/basket/basket.page.html",
+      "sha256": "3cab490092f888ba68feeba2dc17a4ef950fb751728dc1c3235b165b90c0ae9f"
+    },
+    {
+      "id": "path:src/app/features/basket/basket.page.ts",
+      "kind": "path",
+      "path": "src/app/features/basket/basket.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/basket/basket.page.ts",
+      "sha256": "0235469ecd216dea86267d0f02ef00ddda583eab8340e5ce9d17d10f62e494f9"
+    },
+    {
+      "id": "path:src/app/features/catalog/catalog-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/catalog-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/catalog-api.service.ts",
+      "sha256": "b3c4a9784eef33fd527c2fefcd78498c4d3bef2338c68fb9adb8e01f05670b4d"
+    },
+    {
+      "id": "path:src/app/features/catalog/catalog.models.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/catalog.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/catalog.models.ts",
+      "sha256": "54cb8159ee4e9a0c689084c746d33d974bb4a33b3415844db15417ffc486097f"
+    },
+    {
+      "id": "path:src/app/features/catalog/catalog.routes.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/catalog.routes.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/catalog.routes.ts",
+      "sha256": "335ea8f6d0e263fc3ef55dbc4324e2582b005d93193a789e1bac07895e3bd933"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-detail.page.html",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-detail.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-detail.page.html",
+      "sha256": "95fef21a0d91503cd1a0dad87f1fc66b0cbaa3afbe9063c71795027a4768b2c6"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-detail.page.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-detail.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-detail.page.ts",
+      "sha256": "18cfbf6218df3b840ec5e1cb4cc0cec8617867fbd18d11195cde4e8c85209fce"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-list.page.html",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-list.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-list.page.html",
+      "sha256": "16ac1a0edd18e0efb65f896fcde0354585a989c6bfd930c59d3be7ceb0558b78"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-list.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-list.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-list.page.spec.ts",
+      "sha256": "54b67e7dc298d96cf7ccd7d3c4a7a02ffe58ad939c62e07ce56523edeb937466"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-list.page.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-list.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-list.page.ts",
+      "sha256": "1b5f4a1039c1d62eb02609d461fa5e416c7241f292595e446ca25bbde483c79f"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-list.state.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-list.state.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-list.state.spec.ts",
+      "sha256": "a341e372ab3f6ecde41c56b1033e81ea6d2e5b51ff64f5638f20f5345e01665c"
+    },
+    {
+      "id": "path:src/app/features/catalog/product-list.state.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/product-list.state.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/product-list.state.ts",
+      "sha256": "9a6c42123a9991b6acf8285e04578577d1acbd285396d42c88e08139b2f13119"
+    },
+    {
+      "id": "path:src/app/features/catalog/reviews-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/reviews-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/reviews-api.service.ts",
+      "sha256": "d0b15eff91cec7ec82cc89b3148e18b6b4aa3090470cd297de612dd3e3c5cab7"
+    },
+    {
+      "id": "path:src/app/features/catalog/reviews.models.ts",
+      "kind": "path",
+      "path": "src/app/features/catalog/reviews.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/catalog/reviews.models.ts",
+      "sha256": "d647c440e57a94b80eca1ac5131935e228e9b46a613b54d8ed5f70795cc1cd40"
+    },
+    {
+      "id": "path:src/app/features/checkout/checkout.models.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/checkout.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/checkout.models.ts",
+      "sha256": "8adc7b27e1c5c2bc336df615082341aff38f3b17798e0f6a5c2731f5a0b9ee1a"
+    },
+    {
+      "id": "path:src/app/features/checkout/checkout.page.html",
+      "kind": "path",
+      "path": "src/app/features/checkout/checkout.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/checkout.page.html",
+      "sha256": "9124cd918218cdccde4aa4305686f692f800ccc837215e3cb4fbd2804d641c5c"
+    },
+    {
+      "id": "path:src/app/features/checkout/checkout.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/checkout.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/checkout.page.spec.ts",
+      "sha256": "1bec03e1fc01cd91ab83e3cb80377766e2f38f82d77344c12d9e54a9d9c55622"
+    },
+    {
+      "id": "path:src/app/features/checkout/checkout.page.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/checkout.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/checkout.page.ts",
+      "sha256": "bd345e245aef7bf29536ff61b94e0589511e9e93a1576aed7454cc4aedccd201"
+    },
+    {
+      "id": "path:src/app/features/checkout/checkout.service.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/checkout.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/checkout.service.ts",
+      "sha256": "d6a5810d9ebd51e3a076fd851224cc6a21d0c18ad89df6279b744f866fc4f50f"
+    },
+    {
+      "id": "path:src/app/features/checkout/order-confirmation.page.html",
+      "kind": "path",
+      "path": "src/app/features/checkout/order-confirmation.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/order-confirmation.page.html",
+      "sha256": "14914f1e8807b7875a9c0005fa7095aa22c377387f5ea5b570ad00ab251bf1df"
+    },
+    {
+      "id": "path:src/app/features/checkout/order-confirmation.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/order-confirmation.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/order-confirmation.page.spec.ts",
+      "sha256": "6d9b4acc0e2a87ffbf034b9d77e8467e7c3b74522375ab462daee31c80bb9838"
+    },
+    {
+      "id": "path:src/app/features/checkout/order-confirmation.page.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/order-confirmation.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/order-confirmation.page.ts",
+      "sha256": "878077a455d516a28e8a4a32c135d14def66de4795cede62e4a94fa4f6c6ff25"
+    },
+    {
+      "id": "path:src/app/features/checkout/order-status-timeline.component.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/order-status-timeline.component.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/order-status-timeline.component.spec.ts",
+      "sha256": "4d0de11e15a2af7a482c25fced46986cc72dd75232fa9f2c3dac1fc7c34fbbdc"
+    },
+    {
+      "id": "path:src/app/features/checkout/order-status-timeline.component.ts",
+      "kind": "path",
+      "path": "src/app/features/checkout/order-status-timeline.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/checkout/order-status-timeline.component.ts",
+      "sha256": "5a302d7ccfc3bc0b854af0e3bc2335b68388ad17b36af69e3c1ac8e5e0b3c55c"
+    },
+    {
+      "id": "path:src/app/features/dashboard/chart-registration.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/chart-registration.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/chart-registration.ts",
+      "sha256": "0d14fc07b721d155c0d6923844e046d0b0d12ca5c9df827ba48a974c9a0732fe"
+    },
+    {
+      "id": "path:src/app/features/dashboard/dashboard-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/dashboard-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/dashboard-api.service.ts",
+      "sha256": "41bcbc7acfca20a650ab12f8dd5257b57194e4ad3dca7a23023a592193b085b5"
+    },
+    {
+      "id": "path:src/app/features/dashboard/dashboard.models.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/dashboard.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/dashboard.models.ts",
+      "sha256": "b6bf22c2fda18840822e6f74dd018397482a57086f278aea45de38e579c147b6"
+    },
+    {
+      "id": "path:src/app/features/dashboard/dashboard.page.html",
+      "kind": "path",
+      "path": "src/app/features/dashboard/dashboard.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/dashboard.page.html",
+      "sha256": "1ee338e8e5fd0ed2de7d4164b628b47a82176d8db6b954312efbb4321fd365b7"
+    },
+    {
+      "id": "path:src/app/features/dashboard/dashboard.page.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/dashboard.page.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/dashboard.page.spec.ts",
+      "sha256": "ed26569ca08998f46b0ba910db2d33a9c3cae992cb9d3bae431b27b392e3d125"
+    },
+    {
+      "id": "path:src/app/features/dashboard/dashboard.page.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/dashboard.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/dashboard.page.ts",
+      "sha256": "1f0270c21a6ecdd87975e0914d2c266fa7e12c47bb45532fbaeb1f9d6566d75e"
+    },
+    {
+      "id": "path:src/app/features/dashboard/doughnut-chart.component.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/doughnut-chart.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/doughnut-chart.component.ts",
+      "sha256": "6c7f44ed4f07a14f6dd165266fd4d16b28d9216f2528f801e3fc85140ed0d915"
+    },
+    {
+      "id": "path:src/app/features/dashboard/kpi-card.component.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/kpi-card.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/kpi-card.component.ts",
+      "sha256": "4fe1616454796fcb89141c84557f2772b4fb4a74aacb9c049b44bea266cc0ebb"
+    },
+    {
+      "id": "path:src/app/features/dashboard/line-chart.component.ts",
+      "kind": "path",
+      "path": "src/app/features/dashboard/line-chart.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/dashboard/line-chart.component.ts",
+      "sha256": "48a37241a486761e522c53feb36f609f1428f453e51486a753351dc739605b3f"
+    },
+    {
+      "id": "path:src/app/features/orders/delivery-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/delivery-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/delivery-api.service.ts",
+      "sha256": "4a9bbeacbdc546ef424ab04301c584e2a6c8365be1c7cf779ff80019bd59ad85"
+    },
+    {
+      "id": "path:src/app/features/orders/delivery.models.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/delivery.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/delivery.models.ts",
+      "sha256": "12ab38b59e4d1271b9774c392622d4fff42972993e991c019ebc17fc3f0a65df"
+    },
+    {
+      "id": "path:src/app/features/orders/order-detail.page.html",
+      "kind": "path",
+      "path": "src/app/features/orders/order-detail.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/order-detail.page.html",
+      "sha256": "7eb84fa6a4e1bf3381379fcf26f1902281fd12e5e0a763692ea36b7d172aad91"
+    },
+    {
+      "id": "path:src/app/features/orders/order-detail.page.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/order-detail.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/order-detail.page.ts",
+      "sha256": "2e8fcd43c373fea0c9e89966071383b7ce392097099039b86eb5895d9e470106"
+    },
+    {
+      "id": "path:src/app/features/orders/order-status.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/order-status.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/order-status.spec.ts",
+      "sha256": "c079ce2ddfe604d0795625c79a1edb883339331f913e38163a9f4667f50c5298"
+    },
+    {
+      "id": "path:src/app/features/orders/order-status.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/order-status.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/order-status.ts",
+      "sha256": "0d986b6bba17e6c9921f4d93cee25d0e1833092d7896f54d08dc3fd513577765"
+    },
+    {
+      "id": "path:src/app/features/orders/orders-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/orders-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/orders-api.service.ts",
+      "sha256": "8cdce3780cefdcc9099a5f9bd65e5decc905d086105d58acbff1d541836ae42f"
+    },
+    {
+      "id": "path:src/app/features/orders/orders.models.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/orders.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/orders.models.ts",
+      "sha256": "8068c79e268f1484b9056de1d0993575e074604993a9011890f1907f40b5ed02"
+    },
+    {
+      "id": "path:src/app/features/orders/orders.page.html",
+      "kind": "path",
+      "path": "src/app/features/orders/orders.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/orders.page.html",
+      "sha256": "aa14c5ccf037edd89dc97881275c2cb1ce4934766c369da524ea99b415e627e9"
+    },
+    {
+      "id": "path:src/app/features/orders/orders.page.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/orders.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/orders.page.ts",
+      "sha256": "ef6bc4e37d5dc2611f6e3d24df7a8297298d311f674b6bb4785eb93a85cebb99"
+    },
+    {
+      "id": "path:src/app/features/orders/orders.routes.ts",
+      "kind": "path",
+      "path": "src/app/features/orders/orders.routes.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/orders/orders.routes.ts",
+      "sha256": "7afcfee08b1e8189412718224e864bae956f1400500519b91205a48be6868a00"
+    },
+    {
+      "id": "path:src/app/features/support/agent-console.page.html",
+      "kind": "path",
+      "path": "src/app/features/support/agent-console.page.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/agent-console.page.html",
+      "sha256": "715a3e9da1eee11ff19a2388482185ed883faa6db0dbae1363ed0ee59e73d4d0"
+    },
+    {
+      "id": "path:src/app/features/support/agent-console.page.ts",
+      "kind": "path",
+      "path": "src/app/features/support/agent-console.page.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/agent-console.page.ts",
+      "sha256": "30a108186b69f2f62144f4ef1c48fa6b33b924ed22232c92f60d626c30917956"
+    },
+    {
+      "id": "path:src/app/features/support/agent-console.store.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/support/agent-console.store.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/agent-console.store.spec.ts",
+      "sha256": "58f0a0da0de036b68ed896f25449ca19668dfb8c4d4da4b30129f8e8ac77608c"
+    },
+    {
+      "id": "path:src/app/features/support/agent-console.store.ts",
+      "kind": "path",
+      "path": "src/app/features/support/agent-console.store.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/agent-console.store.ts",
+      "sha256": "c1b8af73a54e773779c8f16f96a917255326f3f5403b90e1d6359c116fe57a8b"
+    },
+    {
+      "id": "path:src/app/features/support/chat-thread.component.html",
+      "kind": "path",
+      "path": "src/app/features/support/chat-thread.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/chat-thread.component.html",
+      "sha256": "318adb8e581fe9ccdb35203331a87ec4de95dda6fbb377b7d9d9cb8777c75ef4"
+    },
+    {
+      "id": "path:src/app/features/support/chat-thread.component.ts",
+      "kind": "path",
+      "path": "src/app/features/support/chat-thread.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/chat-thread.component.ts",
+      "sha256": "8c4a17acc3b902d14510f911b5f6aca6d8d606574a6fb650e7be1c22461e83d4"
+    },
+    {
+      "id": "path:src/app/features/support/scroll-anchoring.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/support/scroll-anchoring.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/scroll-anchoring.spec.ts",
+      "sha256": "7a09324b6a83803e8ef5022c5f9f69f07db715cde6f738f2fcd0246a7199c95c"
+    },
+    {
+      "id": "path:src/app/features/support/scroll-anchoring.ts",
+      "kind": "path",
+      "path": "src/app/features/support/scroll-anchoring.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/scroll-anchoring.ts",
+      "sha256": "66d7bd003cbec323f8ec23c93e0775fff2421161f408b127aa677538c7ff3c60"
+    },
+    {
+      "id": "path:src/app/features/support/support-api.service.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support-api.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-api.service.ts",
+      "sha256": "77b11504a5a05875c979b1f8dd59932edc6e89396e64c2d0c2511b8fe497f40c"
+    },
+    {
+      "id": "path:src/app/features/support/support-chat-widget.component.html",
+      "kind": "path",
+      "path": "src/app/features/support/support-chat-widget.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-chat-widget.component.html",
+      "sha256": "49f20c312d73dd8cc26d620dbb6ff54de2feab03f354de268ca64d79223382f1"
+    },
+    {
+      "id": "path:src/app/features/support/support-chat-widget.component.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support-chat-widget.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-chat-widget.component.ts",
+      "sha256": "6b73cf09b6a42332b4d333bb77fb6588aedc176417b36d4207943dee79ba4998"
+    },
+    {
+      "id": "path:src/app/features/support/support-chat.store.spec.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support-chat.store.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-chat.store.spec.ts",
+      "sha256": "a31298953f810a769b4fecf41ffc84d3b7d53560693e8b711d096a36fd806a8a"
+    },
+    {
+      "id": "path:src/app/features/support/support-chat.store.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support-chat.store.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-chat.store.ts",
+      "sha256": "763710931d378b8cc55c82b081709f2ff4f76b4a01cef15a17786e566391f523"
+    },
+    {
+      "id": "path:src/app/features/support/support-hub.events.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support-hub.events.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support-hub.events.ts",
+      "sha256": "2fe94a0f0600d2e315e33e598546699431d1bde45746595ee34a17c087509d00"
+    },
+    {
+      "id": "path:src/app/features/support/support.models.ts",
+      "kind": "path",
+      "path": "src/app/features/support/support.models.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/features/support/support.models.ts",
+      "sha256": "04cfe2dbca199533aab9d561b75381d14294de104fa5dce98354ad3f32aa1335"
+    },
+    {
+      "id": "path:src/app/layout/footer/footer.component.html",
+      "kind": "path",
+      "path": "src/app/layout/footer/footer.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/footer/footer.component.html",
+      "sha256": "ee8762dd9cdd19d4cb7a20766b6ea6547066e5b6303de3cfae969bff08e010c9"
+    },
+    {
+      "id": "path:src/app/layout/footer/footer.component.ts",
+      "kind": "path",
+      "path": "src/app/layout/footer/footer.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/footer/footer.component.ts",
+      "sha256": "1b9a574442edaadb9a9d924c4fd6a97df6db0c79f1b3634fe2c5acf1b4cd2633"
+    },
+    {
+      "id": "path:src/app/layout/header/header.component.html",
+      "kind": "path",
+      "path": "src/app/layout/header/header.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/header/header.component.html",
+      "sha256": "52ea01c4cdef60286312f4cefbb2503770e44e27f0fc917c2744d5b3842d913b"
+    },
+    {
+      "id": "path:src/app/layout/header/header.component.ts",
+      "kind": "path",
+      "path": "src/app/layout/header/header.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/header/header.component.ts",
+      "sha256": "8378512dc7944bf479b3abcbd9a82e14ea5f2a03066111de12c882dfa359d660"
+    },
+    {
+      "id": "path:src/app/layout/notification-bell/notification-bell.component.html",
+      "kind": "path",
+      "path": "src/app/layout/notification-bell/notification-bell.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/notification-bell/notification-bell.component.html",
+      "sha256": "cb5cc2af96b42826aabeff0ba14d1ab226e682bced135f049e8224aa2455c159"
+    },
+    {
+      "id": "path:src/app/layout/notification-bell/notification-bell.component.spec.ts",
+      "kind": "path",
+      "path": "src/app/layout/notification-bell/notification-bell.component.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/notification-bell/notification-bell.component.spec.ts",
+      "sha256": "d54a94d42856104b9bb81beeeb43bd3a2e8744af8808b689775abe2f6e2d6458"
+    },
+    {
+      "id": "path:src/app/layout/notification-bell/notification-bell.component.ts",
+      "kind": "path",
+      "path": "src/app/layout/notification-bell/notification-bell.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/notification-bell/notification-bell.component.ts",
+      "sha256": "62e790987e23ecbca238bb784031cd678072b5117a075323f813ebcaaff8ebdd"
+    },
+    {
+      "id": "path:src/app/layout/shell/shell.component.html",
+      "kind": "path",
+      "path": "src/app/layout/shell/shell.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/shell/shell.component.html",
+      "sha256": "2e59cb0157f375c001522ed403b57c13d35ed9a69213af6f0fba35308dcc5509"
+    },
+    {
+      "id": "path:src/app/layout/shell/shell.component.spec.ts",
+      "kind": "path",
+      "path": "src/app/layout/shell/shell.component.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/shell/shell.component.spec.ts",
+      "sha256": "8c8d4a0d87c1769c311f1ebed792b146d882b561b611b9ec359c18e8475fc3e2"
+    },
+    {
+      "id": "path:src/app/layout/shell/shell.component.ts",
+      "kind": "path",
+      "path": "src/app/layout/shell/shell.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/shell/shell.component.ts",
+      "sha256": "bbe55bf72019d59b5fec9e13eebdfd531029274a02330fc54d609c2b880929d1"
+    },
+    {
+      "id": "path:src/app/layout/toast-host/toast-host.component.html",
+      "kind": "path",
+      "path": "src/app/layout/toast-host/toast-host.component.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/toast-host/toast-host.component.html",
+      "sha256": "01b4b13c0cc554e09beec86340fa759fbcf8c3f47e88f5b0f33867c85928a36c"
+    },
+    {
+      "id": "path:src/app/layout/toast-host/toast-host.component.ts",
+      "kind": "path",
+      "path": "src/app/layout/toast-host/toast-host.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/layout/toast-host/toast-host.component.ts",
+      "sha256": "ad8834a02bd485043eb1431b47a92ba3f60e45051be468f1b4fb7ba7f5c00f31"
+    },
+    {
+      "id": "path:src/app/shared/components/confirm-dialog.component.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/confirm-dialog.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/confirm-dialog.component.ts",
+      "sha256": "2c3594b409244d91bfa3a1376ad67df94f79f17077773f79f3d4b81788ac6577"
+    },
+    {
+      "id": "path:src/app/shared/components/confirm-dialog.service.spec.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/confirm-dialog.service.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/confirm-dialog.service.spec.ts",
+      "sha256": "2c55705d42742e54511eb793711ab29b35b09e268fb8f8ea388cd3a0efb9e6ae"
+    },
+    {
+      "id": "path:src/app/shared/components/confirm-dialog.service.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/confirm-dialog.service.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/confirm-dialog.service.ts",
+      "sha256": "b5a03722d06501dff0ded94da1d18df1646a16ad7b585d423ca2c3288224a181"
+    },
+    {
+      "id": "path:src/app/shared/components/empty-state.component.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/empty-state.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/empty-state.component.ts",
+      "sha256": "292b9d36064ea31d0e06be5c8db59d2485dc5b3cec80b7ccc071a37836a85058"
+    },
+    {
+      "id": "path:src/app/shared/components/loading-spinner.component.spec.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/loading-spinner.component.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/loading-spinner.component.spec.ts",
+      "sha256": "418629869d9534bdd644ec01bf63edd376952d8fd308ba817ec691c57d54da28"
+    },
+    {
+      "id": "path:src/app/shared/components/loading-spinner.component.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/loading-spinner.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/loading-spinner.component.ts",
+      "sha256": "3cae1f6cf386622a284fb19197ff7eb183c3f6481eaefe215fcb2cea46f0ba09"
+    },
+    {
+      "id": "path:src/app/shared/components/not-found.component.spec.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/not-found.component.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/not-found.component.spec.ts",
+      "sha256": "d1940ee1ef52e59439b825073a16583c8e3e4afcd2b9d9997de1df8486f866ec"
+    },
+    {
+      "id": "path:src/app/shared/components/not-found.component.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/not-found.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/not-found.component.ts",
+      "sha256": "4fbc44a060a615d840699a16a42e4cc7af0fe8dfc0613071da7252e55ff10d38"
+    },
+    {
+      "id": "path:src/app/shared/components/rating-stars.component.ts",
+      "kind": "path",
+      "path": "src/app/shared/components/rating-stars.component.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/components/rating-stars.component.ts",
+      "sha256": "165cd94b82e2d742d7b072ac6115bbb576e5f7e44e7857a554a28e506cf3ae36"
+    },
+    {
+      "id": "path:src/app/shared/directives/autofocus.directive.ts",
+      "kind": "path",
+      "path": "src/app/shared/directives/autofocus.directive.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/directives/autofocus.directive.ts",
+      "sha256": "1ff4b7062f67a467337078735f597e57696840f46dba3be469f89c651017edf9"
+    },
+    {
+      "id": "path:src/app/shared/forms/server-validation.ts",
+      "kind": "path",
+      "path": "src/app/shared/forms/server-validation.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/forms/server-validation.ts",
+      "sha256": "7f2d76a2050395a6423493b2c41856ddb51dee816af9cfb07b800eae77967c02"
+    },
+    {
+      "id": "path:src/app/shared/pipes/money.pipe.spec.ts",
+      "kind": "path",
+      "path": "src/app/shared/pipes/money.pipe.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/pipes/money.pipe.spec.ts",
+      "sha256": "60411aa329bf774e1e8905fab160e668aad89a877fc9a9c4a938a8dc84926024"
+    },
+    {
+      "id": "path:src/app/shared/pipes/money.pipe.ts",
+      "kind": "path",
+      "path": "src/app/shared/pipes/money.pipe.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/pipes/money.pipe.ts",
+      "sha256": "49627f914bbac05d8ff8b8cb5133bae590d32aa50752dc24d362e34ae079478a"
+    },
+    {
+      "id": "path:src/app/shared/pipes/relative-time.pipe.spec.ts",
+      "kind": "path",
+      "path": "src/app/shared/pipes/relative-time.pipe.spec.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/pipes/relative-time.pipe.spec.ts",
+      "sha256": "629e11ea0898a7bd318b44552407faec99e9cddc9c8ae7b0575cd8469d8f8447"
+    },
+    {
+      "id": "path:src/app/shared/pipes/relative-time.pipe.ts",
+      "kind": "path",
+      "path": "src/app/shared/pipes/relative-time.pipe.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/app/shared/pipes/relative-time.pipe.ts",
+      "sha256": "c8b4691f9385dddb34b7b79117818f7db134b92c86592129cfca801b86cfd75e"
+    },
+    {
+      "id": "path:src/index.html",
+      "kind": "path",
+      "path": "src/index.html",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/index.html",
+      "sha256": "ce434ef5cc161194b450135a3586eb89357fc270e8aaa8e336db5a04e8d52fbe"
+    },
+    {
+      "id": "path:src/main.ts",
+      "kind": "path",
+      "path": "src/main.ts",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/main.ts",
+      "sha256": "4fab5baaca5c14d2de62d8d2fceef376ddddcc8e9509d86cfa5643f51b89ce3d"
+    },
+    {
+      "id": "path:src/styles/_overrides.scss",
+      "kind": "path",
+      "path": "src/styles/_overrides.scss",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/styles/_overrides.scss",
+      "sha256": "ccb5c6ab1b4e9c6892cba9f2a904889b49d1e52f336bd2d558ff07ec9ffc5aa2"
+    },
+    {
+      "id": "path:src/styles/_variables.scss",
+      "kind": "path",
+      "path": "src/styles/_variables.scss",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/styles/_variables.scss",
+      "sha256": "39d5aa9e27fa49139a93a25f23ca7e34422ec0751ee97b761ee6322f69a7ec85"
+    },
+    {
+      "id": "path:src/styles/styles.scss",
+      "kind": "path",
+      "path": "src/styles/styles.scss",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/src/styles/styles.scss",
+      "sha256": "a178989fbb9392e8a172cf12a763276768773b2b5e951541a30fe8719f77b361"
+    },
+    {
+      "id": "path:tsconfig.app.json",
+      "kind": "path",
+      "path": "tsconfig.app.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/tsconfig.app.json",
+      "sha256": "e71ce96b0b270cb476d6bd8c44bf0cdf6f0db749e316374a54f1b14aff8d63dd"
+    },
+    {
+      "id": "path:tsconfig.json",
+      "kind": "path",
+      "path": "tsconfig.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/tsconfig.json",
+      "sha256": "b55cdbef4907b7045f32cc5360d48d262cca5f94062e353089f189f4460039e0"
+    },
+    {
+      "id": "path:tsconfig.spec.json",
+      "kind": "path",
+      "path": "tsconfig.spec.json",
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/tsconfig.spec.json",
+      "sha256": "c4fa395a2a65bfcfe1605c3bf167f320dfec010a7c2ec613c627f2ee58a08a0f"
+    },
+    {
+      "id": "github:description",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "description",
+      "url": null,
+      "sha256": "27862f75652a9477a05230a4777cb78d87114757ac5c4def16bfda1852c598ae"
+    },
+    {
+      "id": "github:topics",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "topics",
+      "url": null,
+      "sha256": "1b3ba1ea6fca89c4c44b6fc28057ca3a8004a7e8e4da842004be37b5df8adc9f"
+    },
+    {
+      "id": "github:license.spdx_id",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "license.spdx_id",
+      "url": null,
+      "sha256": "e5dcffe836b6ec8a58e492419b550e65fb8cbdc308503979e5dacb33ac7ea3b7"
+    },
+    {
+      "id": "github:language",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "language",
+      "url": null,
+      "sha256": "ed0504f70a48ffe9ed17e7ddee02a72a9c8af602aee1f7ce11853975ce911733"
+    },
+    {
+      "id": "github:default_branch",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "default_branch",
+      "url": null,
+      "sha256": "fc613b4dfd6736a7bd268c8a0e74ed0d1c04a959f59dd74ef2874983fd443fc9"
+    },
+    {
+      "id": "github:html_url",
+      "kind": "github",
+      "path": null,
+      "lineStart": null,
+      "lineEnd": null,
+      "pointer": "html_url",
+      "url": null,
+      "sha256": "de3aba1e5aea280e39568952d930c4c495713c5b1157b7d2a3ccab7deff1c97e"
+    },
+    {
+      "id": "repo:proxy.conf.json#L1-L14",
+      "kind": "repo-text",
+      "path": "proxy.conf.json",
+      "lineStart": 1,
+      "lineEnd": 14,
+      "pointer": null,
+      "url": "https://github.com/amasen02/freshcart-web/blob/27e03cd7ced577cb67ae75bf31b98578e0c6da76/proxy.conf.json#L1-L14",
+      "sha256": "236e93fec6a85609443ab4e253b0b5b50c9a82a4a171b75121eb2f547476292b"
+    }
+  ],
+  "claims": [
+    {
+      "id": "author:kind-label",
+      "slot": "author:kind-label",
+      "text": "Project kind",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:kind",
+      "slot": "projectKind",
+      "text": "web-app",
+      "kind": "grounded",
+      "sourceRefs": [
+        "path:package.json"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "package.json"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:license-label",
+      "slot": "author:license-label",
+      "text": "License",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:license",
+      "slot": "license",
+      "text": "MIT",
+      "kind": "grounded",
+      "sourceRefs": [
+        "github:license.spdx_id"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "github:license.spdx_id"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:language-label",
+      "slot": "author:language-label",
+      "text": "Language",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:language",
+      "slot": "language",
+      "text": "TypeScript",
+      "kind": "grounded",
+      "sourceRefs": [
+        "github:language"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "github:language"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:nav-features",
+      "slot": "author:nav-features",
+      "text": "Capabilities",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:nav-quickstart",
+      "slot": "author:nav-quickstart",
+      "text": "Quickstart",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:nav-concepts",
+      "slot": "author:nav-concepts",
+      "text": "Architecture",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:about",
+      "slot": "author:about",
+      "text": "What it is",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:about",
+      "slot": "about",
+      "text": "A zoneless, signal-based single-page application that talks to the YARP gateway and uses HttpOnly session-cookie authentication. It organizes lazy-loaded storefront routes, root signal stores, reusable presentational pieces, and SignalR-based realtime connections.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L16-L19",
+        "repo:README.md#L75-L86",
+        "repo:README.md#L87-L91",
+        "repo:README.md#L93-L93"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L16-L19",
+        "README.md#L75-L86",
+        "README.md#L87-L91",
+        "README.md#L93-L93"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:audience",
+      "slot": "author:audience",
+      "text": "Who it is for",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:audience",
+      "slot": "audience",
+      "text": "The storefront is for FreshCart customers using the Angular web application, while maintainers and contributors work on frontend bugs, accessibility improvements, patterns, documentation, tests, linting, and production builds.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1",
+        "repo:README.md#L128-L128",
+        "repo:README.md#L129-L134",
+        "repo:CONTRIBUTING.md#L2-L6"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L1-L1",
+        "README.md#L128-L128",
+        "README.md#L129-L134",
+        "CONTRIBUTING.md#L2-L6"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:skip",
+      "slot": "author:skip",
+      "text": "Skip to content",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:wordmark",
+      "slot": "wordmark",
+      "text": "FreshCart Web — customer storefront",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L1-L1"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-kind",
+      "slot": "projectKind",
+      "text": "web-app",
+      "kind": "grounded",
+      "sourceRefs": [
+        "path:package.json"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "package.json"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-title",
+      "slot": "hero-title",
+      "text": "FreshCart Web — customer storefront",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L1-L1"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-pitch",
+      "slot": "hero-pitch",
+      "text": "Angular 20 customer storefront for the FreshCart microservices platform.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "github:description",
+        "repo:README.md#L9-L13"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L9-L13"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:hero-repo",
+      "slot": "author:hero-repo",
+      "text": "View repository",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:hero-quickstart",
+      "slot": "author:hero-quickstart",
+      "text": "Quickstart",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:hero-line-0",
+      "slot": "quickstart.0",
+      "text": "npm ci",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L31-L35"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L31-L35"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-line-1",
+      "slot": "quickstart.1",
+      "text": "npm start          # ng serve with proxy.conf.json -> http://localhost:4200",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L31-L35"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L31-L35"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-line-2",
+      "slot": "quickstart.2",
+      "text": "npm run build      # production bundle -> dist/freshcart-customer/browser",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-line-3",
+      "slot": "quickstart.3",
+      "text": "npm test           # Karma + Jasmine unit tests (ChromeHeadless)",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:hero-line-4",
+      "slot": "quickstart.4",
+      "text": "npm run lint       # eslint + angular template rules",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:hero-label",
+      "slot": "author:hero-label",
+      "text": "Quickstart",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:hero-copy",
+      "slot": "author:hero-copy",
+      "text": "Copy commands",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:hero-success",
+      "slot": "author:hero-success",
+      "text": "Copied",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:hero-manual",
+      "slot": "author:hero-manual",
+      "text": "Select and copy",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:evidence",
+      "slot": "author:evidence",
+      "text": "Repository evidence",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:feature-title-0",
+      "slot": "feature-title-0",
+      "text": "customer storefront",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1",
+        "repo:README.md#L9-L13",
+        "repo:README.md#L75-L86"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L1-L1"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-body-0",
+      "slot": "feature-body-0",
+      "text": "Provides the Angular 20 frontend for FreshCart, with lazy-loaded routes covering home, catalog, basket, checkout, orders, account, dashboard, authentication, and support.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1",
+        "repo:README.md#L9-L13",
+        "repo:README.md#L75-L86"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L1-L1",
+        "README.md#L9-L13",
+        "README.md#L75-L86"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-title-1",
+      "slot": "feature-title-1",
+      "text": "HttpOnly session cookie",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L16-L19",
+        "repo:README.md#L117-L117",
+        "repo:README.md#L118-L124"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L16-L19",
+        "README.md#L117-L117",
+        "README.md#L118-L124"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-body-1",
+      "slot": "feature-body-1",
+      "text": "Uses an HttpOnly, Secure, SameSite session cookie issued through the gateway, keeps access tokens out of JavaScript, and sends the XSRF double-submit header for state-changing requests.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L16-L19",
+        "repo:README.md#L117-L117",
+        "repo:README.md#L118-L124"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L16-L19",
+        "README.md#L117-L117",
+        "README.md#L118-L124"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-title-2",
+      "slot": "feature-title-2",
+      "text": "realtime notifications",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L93-L93",
+        "repo:README.md#L94-L97",
+        "repo:README.md#L98-L103"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L93-L93",
+        "README.md#L94-L97",
+        "README.md#L98-L103"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-body-2",
+      "slot": "feature-body-2",
+      "text": "Connects to the notifications hub with SignalR, updates unread notifications and order-status toasts, observes dashboard refresh ticks, and shows a reconnecting indicator.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L93-L93",
+        "repo:README.md#L94-L97",
+        "repo:README.md#L98-L103"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L93-L93",
+        "README.md#L94-L97",
+        "README.md#L98-L103"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-title-3",
+      "slot": "feature-title-3",
+      "text": "SupportChatStore",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L104-L110"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L104-L110"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-body-3",
+      "slot": "feature-body-3",
+      "text": "Opens the support hub when the widget is opened, resumes active sessions, appends server-echoed messages, reports typing state, and supports the role-based agent console.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L104-L110"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L104-L110"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-title-4",
+      "slot": "feature-title-4",
+      "text": "hardened, non-root nginx image",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L46-L46",
+        "repo:README.md#L47-L48",
+        "repo:README.md#L54-L56"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L47-L48"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:feature-body-4",
+      "slot": "feature-body-4",
+      "text": "Builds the static bundle into a hardened, non-root nginx image, while nginx serves the application shell and SPA fallback and Kubernetes routes API and hub traffic.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L46-L46",
+        "repo:README.md#L47-L48",
+        "repo:README.md#L54-L56"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L46-L46",
+        "README.md#L47-L48",
+        "README.md#L54-L56"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:features-heading",
+      "slot": "author:features-heading",
+      "text": "Capabilities",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:quickstart-line-0",
+      "slot": "quickstart.0",
+      "text": "npm ci",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L31-L35"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L31-L35"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:quickstart-line-1",
+      "slot": "quickstart.1",
+      "text": "npm start          # ng serve with proxy.conf.json -> http://localhost:4200",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L31-L35"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L31-L35"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:quickstart-line-2",
+      "slot": "quickstart.2",
+      "text": "npm run build      # production bundle -> dist/freshcart-customer/browser",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:quickstart-line-3",
+      "slot": "quickstart.3",
+      "text": "npm test           # Karma + Jasmine unit tests (ChromeHeadless)",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:quickstart-line-4",
+      "slot": "quickstart.4",
+      "text": "npm run lint       # eslint + angular template rules",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L39-L44"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L39-L44"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:quickstart-label",
+      "slot": "author:quickstart-label",
+      "text": "Quickstart",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:quickstart-copy",
+      "slot": "author:quickstart-copy",
+      "text": "Copy commands",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:quickstart-success",
+      "slot": "author:quickstart-success",
+      "text": "Copied",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:quickstart-manual",
+      "slot": "author:quickstart-manual",
+      "text": "Select and copy",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:quickstart-heading",
+      "slot": "author:quickstart-heading",
+      "text": "Quickstart",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:sample-path-0",
+      "slot": "sample-path-0",
+      "text": "proxy.conf.json",
+      "kind": "grounded",
+      "sourceRefs": [
+        "path:proxy.conf.json"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "proxy.conf.json"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:sample-0",
+      "slot": "claim:sample-0",
+      "text": "{\n  \"/api\": {\n    \"target\": \"https://localhost:7100\",\n    \"secure\": false,\n    \"changeOrigin\": true\n  },\n  \"/hubs\": {\n    \"target\": \"https://localhost:7100\",\n    \"secure\": false,\n    \"changeOrigin\": true,\n    \"ws\": true\n  }\n}\n",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:proxy.conf.json#L1-L14"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "proxy.conf.json#L1-L14"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:code-heading",
+      "slot": "author:code-heading",
+      "text": "In the code",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:concept-0",
+      "slot": "concept-0",
+      "text": "YARP gateway",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L16-L19",
+        "repo:README.md#L24-L28"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L16-L19"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:concept-1",
+      "slot": "concept-1",
+      "text": "root @ngrx/signals stores",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L87-L91"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L87-L91"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:concept-2",
+      "slot": "concept-2",
+      "text": "feature-scoped signal store",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L87-L91"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L87-L91"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:concept-3",
+      "slot": "concept-3",
+      "text": "SignalrConnectionFactory",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L93-L93",
+        "repo:README.md#L94-L97"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L94-L97"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:concept-4",
+      "slot": "concept-4",
+      "text": "cookie-to-JWT BFF exchange",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L118-L124",
+        "repo:SECURITY.md#L6-L16"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L118-L124"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:concept-5",
+      "slot": "concept-5",
+      "text": "SPA fallback",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L46-L46",
+        "repo:README.md#L54-L56"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L54-L56"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:concepts-heading",
+      "slot": "author:concepts-heading",
+      "text": "Architecture",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:provenance-heading",
+      "slot": "author:provenance-heading",
+      "text": "Source notes",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:provenance-note",
+      "slot": "author:provenance-note",
+      "text": "Descriptions and examples cite repository sources. Review the source map for their evidence.",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:metadata",
+      "slot": "author:metadata",
+      "text": "View source map",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:cta",
+      "slot": "author:cta",
+      "text": "Explore the project",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "author:cta-repo",
+      "slot": "author:cta-repo",
+      "text": "View repository",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:footer-name",
+      "slot": "footer-name",
+      "text": "FreshCart Web — customer storefront",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L1-L1"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "author:footer",
+      "slot": "author:footer",
+      "text": "Source and license details are available in the repository.",
+      "kind": "authored",
+      "sourceRefs": [],
+      "resolvedBy": "authoring",
+      "resolvedPaths": [],
+      "rationale": "Closed navigation or connective copy."
+    },
+    {
+      "id": "claim:meta-description",
+      "slot": "claim:meta-description",
+      "text": "Angular 20 customer storefront for the FreshCart microservices platform.",
+      "kind": "grounded",
+      "sourceRefs": [
+        "github:description",
+        "repo:README.md#L9-L13"
+      ],
+      "resolvedBy": "path",
+      "resolvedPaths": [
+        "README.md#L9-L13"
+      ],
+      "rationale": null
+    },
+    {
+      "id": "claim:title",
+      "slot": "title",
+      "text": "FreshCart Web — customer storefront",
+      "kind": "grounded",
+      "sourceRefs": [
+        "repo:README.md#L1-L1"
+      ],
+      "resolvedBy": "normalized-text",
+      "resolvedPaths": [
+        "README.md#L1-L1"
+      ],
+      "rationale": null
+    }
+  ],
+  "assets": [],
+  "verification": {
+    "html": "pass",
+    "links": "pass",
+    "runtimeRequests": "pass",
+    "contrast": "pass",
+    "reducedMotion": "pass",
+    "sanitizer": "pass",
+    "initialBytes": 137942,
+    "budgetBytes": 900000
+  },
+  "warnings": [
+    "Private content excluded from README.md",
+    "Private content excluded from SECURITY.md",
+    "Private content excluded from .github/workflows/ci.yml"
+  ]
+}

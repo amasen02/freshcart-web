@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "generator": "sitewright",
+  "verified": true,
+  "targetRepository": "amasen02/freshcart-web",
+  "branch": "gh-pages",
+  "sourceRepository": "amasen02/freshcart-web",
+  "sourceCommit": "27e03cd7ced577cb67ae75bf31b98578e0c6da76",
+  "buildId": "sha256:eb04145a802ad96340dda473c78c126b59502c12a6c5c224727be8c8d26f0936",
+  "hashes": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "app.js": "682c4b9c352fcbb3b12ac335b2d30841eb9e275cf878492ebd20934f60fd721e",
+    "assets/favicon.svg": "da2784a2eee083873d93877a40abb0cdf98c7bcf537f49525927c80cbf220f29",
+    "assets/fonts.css": "ef8a3e1e37c28b4770009c690424099ba8c484aa8a0e19692da1d9a439b5b2d3",
+    "assets/fonts/Inter-OFL.txt": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+    "assets/fonts/Inter-Variable.woff2": "8502e0bb88d5be7f50d3b0ae94c210b210b7b84715294d35426f2d97abdf92be",
+    "assets/fonts/JetBrainsMono-OFL.txt": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d",
+    "assets/fonts/JetBrainsMono-Variable.woff2": "7b7f3419196f675a973d30cb70078749120caddea86c8547ebf54a8db2ca13af",
+    "index.html": "a7014f00e9d638067f96ffd255052549999b2b262be0240c0061715a3d9fc813",
+    "site-meta.json": "ad7458353fb88a867398fd60ce56422b32da72cc6bf3ca96808160a746e6ee25",
+    "styles.css": "1c6dc4e61e801707da44502dccc8af53bdb3808b0cbe66190b683f6ac4e9f96e"
+  }
+}
