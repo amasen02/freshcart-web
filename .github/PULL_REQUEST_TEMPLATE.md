@@ -31,7 +31,7 @@
 - [ ] No secrets committed
 - [ ] No `innerHTML` assignment; user content goes through Angular's sanitiser
 - [ ] No tokens or PII written to `localStorage` / `sessionStorage`
-- [ ] No new third-party origin added (CSP stays `'self'`)
+- [ ] No new third-party origin added to the CSP; if one was, `nginx.conf`, `src/index.html` and `SECURITY.md` all say so
 
 ## Tests
 

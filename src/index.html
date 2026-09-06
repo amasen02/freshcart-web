@@ -3,8 +3,15 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--
+      This policy mirrors the Content-Security-Policy response header in nginx.conf, so the same
+      rules apply under `ng serve` and on any static host that serves dist/ without that header.
+      Keep the two in sync; SECURITY.md documents what ships.
+      `frame-ancestors` is deliberately absent: a <meta> policy cannot set it, so clickjacking
+      protection comes from the nginx header (and X-Frame-Options) only.
+    -->
     <meta http-equiv="Content-Security-Policy"
-          content="default-src 'self'; img-src 'self' https://picsum.photos https://fastly.picsum.photos data:; style-src 'self' 'unsafe-inline'; connect-src 'self' wss:; font-src 'self'">
+          content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://picsum.photos https://fastly.picsum.photos; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
     <base href="/">
     <title>FreshCart</title>
   </head>

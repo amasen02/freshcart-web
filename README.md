@@ -120,8 +120,12 @@ contract exactly.
   by Identity through the gateway's cookie-to-JWT BFF exchange.
 - **XSRF double-submit.** A readable `XSRF-TOKEN` cookie is echoed in the `X-XSRF-TOKEN` header on
   every state-changing request (`credentials.interceptor`).
-- **Strict CSP** is served by nginx and mirrored in the app shell; user content is rendered
-  through Angular's sanitiser, never `innerHTML`.
+- **Strict CSP.** `default-src 'self'` with no inline and no third-party scripts, and
+  `connect-src 'self'` so XHR and the SignalR WebSocket may only reach this origin. It is sent as
+  an nginx response header ([`nginx.conf`](nginx.conf)) and mirrored in the app shell
+  ([`src/index.html`](src/index.html)) so it also applies under `ng serve` and on a static host.
+  The one third-party origin is `picsum.photos` in `img-src`, the fallback product photography.
+  User content is rendered through Angular's sanitiser, never `innerHTML`.
 
 ---
 

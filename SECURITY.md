@@ -8,7 +8,7 @@ This is a browser single-page application. Its security posture is deliberately 
 |---|---|
 | Authentication | HttpOnly + Secure + SameSite session cookie issued by the Identity service through the gateway's cookie-to-JWT exchange. **No access tokens are ever stored in JavaScript, `localStorage`, or `sessionStorage`.** |
 | CSRF | Double-submit: a readable `XSRF-TOKEN` cookie is echoed in the `X-XSRF-TOKEN` header on every state-changing request (`credentials.interceptor`). |
-| Content Security Policy | Strict CSP served by nginx (`default-src 'self'`); no inline scripts, no third-party origins. |
+| Content Security Policy | `default-src 'self'`; `script-src 'self'` — no inline and no third-party scripts; `connect-src 'self'` — XHR and WebSocket to this origin only (the SignalR hubs are same-origin). One third-party origin ships: `picsum.photos` / `fastly.picsum.photos` in `img-src`, the fallback product photography. Sent as an nginx response header ([`nginx.conf`](nginx.conf)) and repeated directive-for-directive in the app shell ([`src/index.html`](src/index.html)), which is the only policy under `ng serve` or on a static host. The one directive the shell cannot repeat is `frame-ancestors 'none'` — a `<meta>` policy may not set it — so clickjacking protection comes from the header (plus `X-Frame-Options: DENY`). |
 | Output encoding | Angular's built-in sanitiser on all interpolated content; `innerHTML` assignment is prohibited. |
 | Transport security | HTTPS everywhere behind the gateway/ingress; the SPA never talks to a service directly. |
 | Build integrity | Multi-stage Docker build to a hardened, non-root nginx image; image scanned by Trivy in CI (fails on HIGH/CRITICAL). |
