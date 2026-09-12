@@ -29,6 +29,6 @@ RUN touch /run/nginx.pid \
 USER nginx
 EXPOSE 80
 
-HEALTHCHECK --interval=30s --timeout=5s CMD wget --spider --quiet http://localhost:80/ || exit 1
+HEALTHCHECK --interval=30s --timeout=5s CMD wget --spider --quiet http://127.0.0.1:80/ || exit 1
 
 ENTRYPOINT ["nginx", "-g", "daemon off;"]

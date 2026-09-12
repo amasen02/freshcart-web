@@ -101,6 +101,13 @@ jobs:
           }
           trap cleanup EXIT
 
+          diagnose() {
+            docker inspect --format 'State={{json .State}} Health={{json .State.Health}}' "$container_name" || true
+            docker exec "$container_name" wget --spider http://127.0.0.1:80/ || true
+            docker exec "$container_name" wget --spider http://localhost:80/ || true
+            docker logs "$container_name" || true
+          }
+
           test "$(docker image inspect --format '{{.Config.User}}' "$IMAGE")" = "nginx"
           docker run --detach --name "$container_name" --publish 18080:80 "$IMAGE" >/dev/null
 
@@ -111,13 +118,13 @@ jobs:
               exit 0
             fi
             if [ "$health" = "unhealthy" ]; then
-              docker logs "$container_name"
+              diagnose
               exit 1
             fi
             sleep 1
           done
 
-          docker logs "$container_name"
+          diagnose
           exit 1
 
       - name: Scan image with Trivy
@@ -132,7 +139,7 @@ jobs:
           vuln-type: 'os,library'
 
       - name: Upload Trivy SARIF
-        if: always()
+        if: ${{ always() && hashFiles('trivy-results.sarif') != '' }}
         uses: github/codeql-action/upload-sarif@v3
         with:
           sarif_file: 'trivy-results.sarif'
