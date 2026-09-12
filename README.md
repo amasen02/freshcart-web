@@ -22,20 +22,43 @@ ever reach JavaScript. State-changing requests carry the XSRF double-submit head
 
 ## Run it
 
-The storefront needs the gateway (and the services behind it) running. Start the backend first —
-clone [`amasen02/freshcart-backend`](https://github.com/amasen02/freshcart-backend) and boot the platform with the
-Aspire AppHost or Docker Compose (see that repo's README), which exposes the gateway on
-`https://localhost:7100` and seeds the demo accounts.
+The storefront needs the gateway (and the services behind it) running. For a free local backend,
+install Git, Node.js 22, the [.NET SDK 10.0.100](https://dotnet.microsoft.com/download/dotnet/10.0),
+and [Docker Desktop](https://www.docker.com/products/docker-desktop/) (or Docker Engine with Compose
+v2). Clone [`amasen02/freshcart-backend`](https://github.com/amasen02/freshcart-backend), then start
+the complete platform with its .NET Aspire AppHost in a backend terminal:
 
-Then run the SPA:
+```bash
+git clone https://github.com/amasen02/freshcart-backend.git
+cd freshcart-backend
+dotnet run --project src/AspireAppHost/FreshCart.AppHost/FreshCart.AppHost.csproj --launch-profile http
+```
+
+Aspire creates the backing stores, starts all backend services, and exposes the gateway on
+`https://localhost:7100`. The backend's [quickstart](https://github.com/amasen02/freshcart-backend/blob/master/docs/quickstart.md)
+also documents Docker Compose for developers who intend to run and configure the .NET services
+manually; Compose by itself provides backing infrastructure and is not the complete application.
+Do not start both environments together because they can conflict over ports.
+
+Leave the AppHost running in that backend terminal. In a second terminal, from the
+`freshcart-web` checkout, run the SPA:
 
 ```bash
 npm ci
-npm start          # ng serve with proxy.conf.json -> http://localhost:4200
+npm start          # ng serve with proxy.conf.json -> https://localhost:4200
 ```
 
-`npm start` proxies `/api` and `/hubs` to the gateway on `https://localhost:7100`
-(see [`proxy.conf.json`](proxy.conf.json)). Open <http://localhost:4200>.
+`npm start` enables the Angular CLI's [`--ssl` option](https://angular.dev/cli/serve#options) and
+proxies the `/api` and `/hubs` paths, including nested routes, to the gateway on
+`https://localhost:7100` (see
+[`proxy.conf.json`](proxy.conf.json)). Open <https://localhost:4200>.
+
+The development server uses a local self-signed certificate when no certificate and key are
+provided. On the first visit, accept the browser's certificate warning for `localhost` using its
+local-development option (for example, **Advanced** then **Proceed to localhost**; wording varies
+by browser). Never accept the warning for a non-local host, commit a generated certificate or key,
+or weaken the backend's Secure cookie policy to use HTTP. The HTTPS origin is required for the
+production-like Identity cookies used by the local sign-in flow.
 
 ```bash
 npm run build      # production bundle -> dist/freshcart-customer/browser
