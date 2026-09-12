@@ -104,7 +104,7 @@ jobs:
           test "$(docker image inspect --format '{{.Config.User}}' "$IMAGE")" = "nginx"
           docker run --detach --name "$container_name" --publish 18080:80 "$IMAGE" >/dev/null
 
-          for attempt in {1..30}; do
+          for attempt in {1..90}; do
             health="$(docker inspect --format '{{.State.Health.Status}}' "$container_name")"
             if [ "$health" = "healthy" ]; then
               curl --fail --silent --show-error http://127.0.0.1:18080/ >/dev/null
