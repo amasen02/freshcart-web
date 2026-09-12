@@ -21,6 +21,9 @@ FROM nginx:1.30.4-alpine3.24@sha256:dc5069ad14f19660b141b21236140b91656bf89bbc3e
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /app/dist/freshcart-customer/browser /usr/share/nginx/html
 
+# Keep libuuid at the Alpine 3.24 security-fixed version or newer.
+RUN apk add --no-cache --upgrade 'libuuid>=2.42.3-r1'
+
 # nginx writes its pid and temp files outside the read-only html root; pre-create
 # the writable paths and hand ownership to the unprivileged nginx user.
 RUN touch /run/nginx.pid \
