@@ -16,10 +16,13 @@ RUN npm ci
 COPY . .
 RUN npm run build -- --configuration production
 
-FROM nginx:1.27-alpine AS runtime
+FROM nginx:1.30.4-alpine3.24@sha256:dc5069ad14f19660b141b21236140b91656bf89bbc3e2417c70ae650cd66104c AS runtime
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /app/dist/freshcart-customer/browser /usr/share/nginx/html
+
+# Keep libuuid at the Alpine 3.24 security-fixed version or newer.
+RUN apk add --no-cache --upgrade 'libuuid>=2.42.3-r1'
 
 # nginx writes its pid and temp files outside the read-only html root; pre-create
 # the writable paths and hand ownership to the unprivileged nginx user.
@@ -29,6 +32,6 @@ RUN touch /run/nginx.pid \
 USER nginx
 EXPOSE 80
 
-HEALTHCHECK --interval=30s --timeout=5s CMD wget --spider --quiet http://localhost:80/ || exit 1
+HEALTHCHECK --interval=30s --timeout=5s CMD wget --spider --quiet http://127.0.0.1:80/ || exit 1
 
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
