@@ -16,7 +16,7 @@ RUN npm ci
 COPY . .
 RUN npm run build -- --configuration production
 
-FROM nginx:1.30.4-alpine3.24@sha256:dc5069ad14f19660b141b21236140b91656bf89bbc3e2417c70ae650cd66104c AS runtime
+FROM nginx:1.31.5-alpine3.24@sha256:72ba65eb42c10344912a84ff42408db7d34f2feb642204570ab8fc5ffd29f1d3 AS runtime
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /app/dist/freshcart-customer/browser /usr/share/nginx/html
